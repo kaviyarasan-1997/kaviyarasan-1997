@@ -1,6 +1,6 @@
 # <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROFILE&font=Bold&width=650&height=120&color=000888&vCenter=true&size=45%22">
 
-| <IMG height="200px" width="700px" src="https://github.com/DREAM-IDEAS//blob/main/ETC/Drem%20ideas%20Orginal.png"> | 
+| <IMG height="200px" width="700px" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/d8f244271a7c56bc9fcb22f80505708c_w200.gif"> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;  <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views "/>  | 
 | <a href="mailto:socialmechanic1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-CANTACT-yellow?style=square&logo=gmail"></a>
@@ -9,7 +9,7 @@
 
 ----------- 
 
-<img width="40%" align="right" alt="Github" src="https://github.com/DREAM-IDEAS/DREAM-IDEAS/blob/main/ETC/Photo_1665584792534.png" /> 
+<img width="40%" align="right" alt="Github" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/d8f244271a7c56bc9fcb22f80505708c_w200.gif" /> 
 
 <p align="center"> 
 
