@@ -44,8 +44,8 @@
 <p align="center"> 
 <a href="https://github.com/kaviyarasan-1997"><img target="_blank" src="https://img.shields.io/badge/kaviyarasan-1997-blue?style=square&logo=github&logoColor=black"/></a> 
 </p>
- <a href="https://github.com/kaviyarasan-1997/handle-path-oz"><img alt="MR-TAMIZLAN's github stats"src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&show_icons=true&theme=highcontrast"/> </a> 
- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&hide=html&layout=compact&theme=highcontrast"/>
+ <a href="https://github.com/kaviyarasan-1997/handle-path-oz"><img alt="kaviyarasan-1997 github stats"src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&show_icons=true&theme=highcontrast"/> </a> 
+ <img height="100px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&hide=html&layout=compact&theme=highcontrast"/>
 
 ## Languages and Tools:
 
