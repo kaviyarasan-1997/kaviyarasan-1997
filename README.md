@@ -5,7 +5,7 @@
 | ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;  <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views "/>  | 
 | <a href="mailto:socialmechanic1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-CANTACT-yellow?style=square&logo=gmail"></a>
  
-  <img height="80px" width="180px" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" ctrl="dream-ideas" /> 
+  <img height="100px" width="300px" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/keyboard-gif-9.gif" alt="Bt" ctrl="dream-ideas" /> 
 
 ----------- 
 
