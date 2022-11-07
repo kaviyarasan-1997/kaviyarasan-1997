@@ -9,7 +9,7 @@
 
 ----------- 
 
-<img width="40%" align="right" alt="Github" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/d8f244271a7c56bc9fcb22f80505708c_w200.gif" /> 
+<img width="40%" hight="40%" align="right" alt="Github" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/d8f244271a7c56bc9fcb22f80505708c_w200.gif" /> 
 
 <p align="center"> 
 
