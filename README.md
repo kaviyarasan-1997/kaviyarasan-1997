@@ -13,7 +13,7 @@
 
 <p align="center"> 
 
-- 🇭𝑒𝑙𝑙𝑜 𝐼'𝑚 Sathish B.E 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛.
+- 🇭𝑒𝑙𝑙𝑜 𝐼'𝑚 KAVIYARASAN M.sc., 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛.
 - 
 </p>
 <a href="https://github.com/DREAM-IDEAS"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;mr%20+tamizlan%201996;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20technologys&font=Pacifico&center=true&width=650&height=120&color=000888&vCenter=true&size=45%22"></a> </p>
