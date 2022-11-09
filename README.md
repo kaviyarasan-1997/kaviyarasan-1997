@@ -3,7 +3,7 @@
 | <IMG height="400px" width="280px" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/7fdce2dc9307aff4f5acb88cc06b5904.gif"> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;  <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views "/>  | 
-| <a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-CANTACT-yellow?style=square&logo=gmail"></a> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kaviyarasan-1997/)
+| <a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Cantact-yellow?style=square&logo=gmail"></a> 
 
  
   <img height="80px" width="180px" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" ctrl="kaviyarasan-1997" /> 
