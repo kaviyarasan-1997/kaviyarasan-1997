@@ -5,9 +5,6 @@
 | ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;  <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views "/>  | 
 | <a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Cantact-yellow?style=square&logo=gmail"></a> 
 
- 
-  <img height="80px" width="180px" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" ctrl="kaviyarasan-1997" /> 
-
 ----------- 
 
 <img width="40%" align="right" alt="Github" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/d8f244271a7c56bc9fcb22f80505708c_w200.gif" /> 
@@ -20,7 +17,12 @@
 - 𝐼'𝑚 𝑎 𝑙𝑒𝑓𝑡𝑖𝑠𝑡 𝑡ℎ𝑖𝑛𝑘𝑒𝑟 𝑎𝑛𝑑 ℎ𝑎𝑣𝑒 𝑙𝑜𝑡𝑠 𝑜𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑖𝑛 𝑝𝑜𝑙𝑖𝑡𝑖𝑐𝑠 𝑠𝑜 𝐼 𝑠𝑡𝑟𝑜𝑛𝑔𝑙𝑦 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑡ℎ𝑎𝑡 
 
 </p>
-<a href="https://github.com/kaviyarasan-1997"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;Mr%20+kaviyarasan%201997;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20technologys&font=Pacifico&center=true&width=650&height=120&color=008888&vCenter=true&size=45%22"></a> </p>
+
+|  <a href="https://github.com/kaviyarasan-1997"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;Mr%20+kaviyarasan%201997;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20technologys&font=Pacifico&center=true&width=650&height=120&color=008888&vCenter=true&size=45%22"></a>|
+|:------:| 
+|  <img height="50px" width="200px" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" ctrl="kaviyarasan-1997" /> |
+
+</p>
 
 ```
   POLITICAL POWER GROWS OUT OF THE BARREL OF A GUN 
