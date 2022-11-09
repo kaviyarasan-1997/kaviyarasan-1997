@@ -26,7 +26,7 @@
 𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀
 
 <p align="center"> 
-  <a href="https://t.me/kaviyarasan-1997"><img src="https://img.shields.io/badge/Contact-Me%20-blue.svg?style=square&logo=Telegram"></a>
+  <a href="https://t.me/kaviyarasan_1997"><img src="https://img.shields.io/badge/Contact-Me%20-blue.svg?style=square&logo=Telegram"></a>
   <a href="https://instagram.com/kaviyarasan_1997_" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=square&logo=instagram&logoColor=white" target="blank"></a>
   <a href="https://kaviyarasan_1997.github.io/dream-ideas/"><img src="https://img.shields.io/badge/oogle-website%20-green.svg?style=square&logo=Google"></a>
   <a href="https://twitter.com/kaviyarasanceo"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white">  
