@@ -15,7 +15,9 @@
 - 𝐼 ℎ𝑎𝑣𝑒 𝑎 𝑘𝑒𝑒𝑛 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑡𝑜 𝑏𝑒𝑐𝑜𝑚𝑒 𝑎 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑎𝑙𝑠𝑜 𝐼 𝑠𝑡𝑎𝑟𝑡𝑒𝑑 𝑡ℎ𝑎𝑡 𝑡𝑜𝑜. 𝑌𝑎! 𝐼'𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 𝑛𝑎𝑚𝑒 𝑖𝑠 KAVIYARASAN 𝐷𝑜𝑛'𝑡 𝑓𝑜𝑟𝑔𝑒𝑡 𝑡𝑜 𝑔𝑖𝑣𝑒 𝑎 𝑣𝑖𝑠𝑖𝑡 𝑡𝑜 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙. 𝐴𝑛𝑑 𝑦𝑒𝑠, 
 - 𝐼 𝑎𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑏𝑙𝑜𝑔𝑔𝑒𝑟 𝑎𝑡 "KAVIYARASAN". 𝐴𝑛𝑑 𝑜𝑛𝑒 𝑚𝑜𝑟𝑒 𝑖𝑚𝑝𝑜𝑟𝑡𝑎𝑛𝑡 𝑡ℎ𝑖𝑛𝑔, 
 - 𝐼'𝑚 𝑎 𝑙𝑒𝑓𝑡𝑖𝑠𝑡 𝑡ℎ𝑖𝑛𝑘𝑒𝑟 𝑎𝑛𝑑 ℎ𝑎𝑣𝑒 𝑙𝑜𝑡𝑠 𝑜𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑖𝑛 𝑝𝑜𝑙𝑖𝑡𝑖𝑐𝑠 𝑠𝑜 𝐼 𝑠𝑡𝑟𝑜𝑛𝑔𝑙𝑦 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑡ℎ𝑎𝑡 
-
+```
+  POLITICAL POWER GROWS OUT OF THE BARREL OF A GUN 
+```
 </p>
 
 |  <a href="https://github.com/kaviyarasan-1997"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;Mr%20+kaviyarasan%201997;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20technologys&font=Pacifico&center=true&width=650&height=120&color=008888&vCenter=true&size=45%22"></a>|
@@ -23,16 +25,13 @@
 |  <img height="50px" width="200px" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" ctrl="kaviyarasan-1997" /> |
 
 </p>
-
-```
-  POLITICAL POWER GROWS OUT OF THE BARREL OF A GUN 
-```
-
+ 
+---------------
 
 𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀
 
 <p align="center"> 
-  <a href="https://t.me/kaviyarasan_1997"><img src="https://img.shields.io/badge/Contact-Me%20-blue.svg?style=square&logo=Telegram"></a>
+  <a href="https://t.me/kaviyarasan-1997"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
   <a href="https://instagram.com/kaviyarasan_1997_" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=square&logo=instagram&logoColor=white" target="blank"></a>
   <a href="https://kaviyarasan_1997.github.io/dream-ideas/"><img src="https://img.shields.io/badge/oogle-website%20-green.svg?style=square&logo=Google"></a>
   <a href="https://twitter.com/kaviyarasanceo"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white">  
@@ -69,9 +68,7 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=square&logo=github&logoColor=white"/>
  </p>
 
-## Updates CHANNEL
-
- <a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
+-----------
 
  <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROJECT'S&font=&center=true&width=650&height=120&color=008000&vCenter=true&size=45%22">
 
