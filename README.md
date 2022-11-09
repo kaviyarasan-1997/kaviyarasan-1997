@@ -39,7 +39,8 @@
   <a href="https://www.facebook.com/profile.php?id=100086184981928/"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>
   <a href="https://youtube.com/channel/UCRloyqEQYhM9Oep5bj8fP6w"><img src="https://img.shields.io/youtube/channel/subscribers/UCxV8fWQAm7s-S7RVK51yw-A?V?label=Subscribers&style=square&color=red&labelColor=ce453"/> </a> 
   <a href="https://LinkedIn.com/https://dreamideas.code.blog/"><img src="https://img.shields.io/badge/linkedin%20-blue.svg?style=square&logo=LinkedIn"></a>
-  
+  <a href="https://github.com/kaviyarasan-1997"><img target="_blank" src="https://img.shields.io/badge/kaviyarasan-1997-blue?style=square&logo=github&logoColor=black"/></a> 
+
 </p> 
 
 -----------
@@ -47,7 +48,6 @@
  # GITHUB STATUS 
 
 <p align="center"> 
-<a href="https://github.com/kaviyarasan-1997"><img target="_blank" src="https://img.shields.io/badge/kaviyarasan-1997-blue?style=square&logo=github&logoColor=black"/></a> 
 </p>
  <a href="https://github.com/kaviyarasan-1997/handle-path-oz"><img alt="MR-TAMIZLAN's github stats"src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&show_icons=true&theme=highcontrast"/> </a> 
  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&hide=html&layout=compact&theme=highcontrast"/>
