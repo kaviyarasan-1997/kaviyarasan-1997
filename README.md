@@ -20,7 +20,7 @@
 - 𝐼'𝑚 𝑎 𝑙𝑒𝑓𝑡𝑖𝑠𝑡 𝑡ℎ𝑖𝑛𝑘𝑒𝑟 𝑎𝑛𝑑 ℎ𝑎𝑣𝑒 𝑙𝑜𝑡𝑠 𝑜𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑖𝑛 𝑝𝑜𝑙𝑖𝑡𝑖𝑐𝑠 𝑠𝑜 𝐼 𝑠𝑡𝑟𝑜𝑛𝑔𝑙𝑦 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑡ℎ𝑎𝑡 
 
 </p>
-<a href="https://github.com/kaviyarasan-1997"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;mr%20+tamizlan%201996;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20technologys&font=Pacifico&center=true&width=650&height=120&color=000888&vCenter=true&size=45%22"></a> </p>
+<a href="https://github.com/kaviyarasan-1997"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;Mr%20+kaviyarasan%201997;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20technologys&font=Pacifico&center=true&width=650&height=120&color=008888&vCenter=true&size=45%22"></a> </p>
 
 ```
   POLITICAL POWER GROWS OUT OF THE BARREL OF A GUN 
