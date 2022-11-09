@@ -50,7 +50,7 @@
 <p align="center"> 
 </p>
  <a href="https://github.com/kaviyarasan-1997/handle-path-oz"><img alt="MR-TAMIZLAN's github stats"src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&show_icons=true&theme=highcontrast"/> </a> 
- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&hide=html&layout=compact&theme=highcontrast"/>
+ <img height="115px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&hide=html&layout=compact&theme=highcontrast"/>
 
 ## Languages and Tools:
 
