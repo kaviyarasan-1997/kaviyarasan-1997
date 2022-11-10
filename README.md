@@ -11,9 +11,9 @@
 
 <p align="center"> 
 
-- ℎ𝑒𝑙𝑙𝑜 𝐼'𝑚 KAVIYARASAN, 𝑀.𝑆𝑐 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛. 
+- ℎ𝑒𝑙𝑙𝑜 𝐼'𝑚 ᴋᴀᴠɪʏᴀʀᴀsᴀɴ, 𝑀.𝑆𝑐 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛. 
 - 𝐼 ℎ𝑎𝑣𝑒 𝑎 𝑘𝑒𝑒𝑛 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑡𝑜 𝑏𝑒𝑐𝑜𝑚𝑒 𝑎 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑎𝑙𝑠𝑜 𝐼 𝑠𝑡𝑎𝑟𝑡𝑒𝑑 𝑡ℎ𝑎𝑡 𝑡𝑜𝑜. 𝑌𝑎! 𝐼'𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 𝑛𝑎𝑚𝑒 𝑖𝑠 KAVIYARASAN 𝐷𝑜𝑛'𝑡 𝑓𝑜𝑟𝑔𝑒𝑡 𝑡𝑜 𝑔𝑖𝑣𝑒 𝑎 𝑣𝑖𝑠𝑖𝑡 𝑡𝑜 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙. 𝐴𝑛𝑑 𝑦𝑒𝑠, 
-- 𝐼 𝑎𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑏𝑙𝑜𝑔𝑔𝑒𝑟 𝑎𝑡 "KAVIYARASAN". 𝐴𝑛𝑑 𝑜𝑛𝑒 𝑚𝑜𝑟𝑒 𝑖𝑚𝑝𝑜𝑟𝑡𝑎𝑛𝑡 𝑡ℎ𝑖𝑛𝑔, 
+- 𝐼 𝑎𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑏𝑙𝑜𝑔𝑔𝑒𝑟 𝑎𝑡 "ᴋᴀᴠɪʏᴀʀᴀsᴀɴ". 𝐴𝑛𝑑 𝑜𝑛𝑒 𝑚𝑜𝑟𝑒 𝑖𝑚𝑝𝑜𝑟𝑡𝑎𝑛𝑡 𝑡ℎ𝑖𝑛𝑔, 
 - 𝐼'𝑚 𝑎 𝑙𝑒𝑓𝑡𝑖𝑠𝑡 𝑡ℎ𝑖𝑛𝑘𝑒𝑟 𝑎𝑛𝑑 ℎ𝑎𝑣𝑒 𝑙𝑜𝑡𝑠 𝑜𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑖𝑛 𝑝𝑜𝑙𝑖𝑡𝑖𝑐𝑠 𝑠𝑜 𝐼 𝑠𝑡𝑟𝑜𝑛𝑔𝑙𝑦 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑡ℎ𝑎𝑡 
 ```
   POLITICAL POWER GROWS OUT OF THE BARREL OF A GUN 
@@ -76,27 +76,27 @@
 <summary><b7>MY ANOTHER PROJECTS</b7></summary>
  <br> 
 <p align="left">
- ★1.<a href="">TELEGRAM</a> 
+ ★1.<a href="">𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼</a> 
 </p>
  <p align="left">
- ★2.<a href="">WEBSITES</a> 
+ ★2.<a href="">𝚆𝙴𝙱𝚂𝙸𝚃𝙴𝚂</a> 
 </p> 
 <p align="left"> 
-★3.<a href="">CODES</a> 
+★3.<a href="">𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝚂</a> 
 </p>
  <p align="left">
- ★4.<a href="">GAMES</a>
+ ★4.<a href="">𝙶𝙰𝙼𝙴𝚂</a>
  </p> 
 <p align="left">
- ★5.<a href="">APPLICATION</a>
+ ★5.<a href="">𝙰𝙿𝙿𝙻𝙸𝙲𝙰𝚃𝙸𝙾𝙽𝚂</a>
  </p> 
 <p align="left">
- ★6.<a href="">ADVANCE WEBSITE</a> 
+ ★6.<a href="">𝙰𝙳𝚅𝙰𝙽𝙲𝙴 𝚆𝙴𝙱𝚂𝙸𝚃𝙴𝚂</a> 
 </p> <P align="left">
- ★7.<a href="">STREAMING</a> 
+ ★7.<a href="">𝙼𝙾𝙳𝙴𝙻'𝚂</a> 
 </P> 
 <P align="left"> 
-★8.<a href="">ARTIFICIAL INTELLIGENCE</a>
+★8.<a href="">𝙰𝚁𝚃𝙸𝙵𝙸𝙲𝙸𝙰𝙻 𝙸𝙽𝚃𝙴𝙻𝙻𝙸𝙶𝙴𝙽𝙲𝙴</a>
  </P> 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=DONT+FORGET+FOLLOW+ME+ON+GITHUB&font=&center=true&width=680&height=70&color=ff0000&vCenter=true&size=35%20">
 </details>
