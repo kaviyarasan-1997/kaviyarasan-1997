@@ -77,7 +77,7 @@
 <summary><b7>MY ANOTHER PROJECTS</b7></summary>
  <br> 
 <p align="left">
- ★1.<a href="">𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼</a> 
+ ★1.<a href="https://github.com/KAVIYARASAN-1997/Telegram">𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼</a> 
 </p>
  <p align="left">
  ★2.<a href="">𝚆𝙴𝙱𝚂𝙸𝚃𝙴𝚂</a> 
