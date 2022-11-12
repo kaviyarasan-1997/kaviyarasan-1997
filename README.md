@@ -89,7 +89,7 @@
  ★4.<a href="">𝙶𝙰𝙼𝙴𝚂</a>
  </p> 
 <p align="left">
- ★5.<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/base.apk">𝙰𝙿𝙿𝙻𝙸𝙲𝙰𝚃𝙸𝙾𝙽𝚂</a>
+ ★5.<a href="https://github.com/KAVIYARASAN-1997/apks">𝙰𝙿𝙿𝙻𝙸𝙲𝙰𝚃𝙸𝙾𝙽𝚂</a>
  </p> 
 <p align="left">
  ★6.<a href="">𝙰𝙳𝚅𝙰𝙽𝙲𝙴 𝚆𝙴𝙱𝚂𝙸𝚃𝙴𝚂</a> 
