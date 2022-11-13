@@ -2,6 +2,7 @@
 
 <Details>
 <Summary> Profile Info</summary>
+
 | <IMG height="300px" width="240px" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/7fdce2dc9307aff4f5acb88cc06b5904.gif"> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;  <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views "/>  | 
