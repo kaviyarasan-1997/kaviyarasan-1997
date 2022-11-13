@@ -34,7 +34,7 @@
  
 ---------------
 <details>
-<Summary>𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀</summary>
+<Summary><b7>CHECK MY UPDATE</b7></summary>
 
 <p align="center"> 
   <a href="https://t.me/kaviyarasan-1997"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
