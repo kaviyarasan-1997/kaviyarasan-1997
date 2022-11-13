@@ -1,17 +1,4 @@
-#  <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROFILE&font=Bold&width=650&height=120&color=000888&vCenter=true&size=45%22">
-
-<Details>
-<Summary> Profile Info</summary>
-
-| <IMG height="300px" width="240px" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/7fdce2dc9307aff4f5acb88cc06b5904.gif"> | 
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-| ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;  <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views "/>  | 
-| <a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Cantact-yellow?style=square&logo=gmail"></a> 
-
-</Details>
-
------------ 
-
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROFILE&font=Bold&width=650&height=120&color=000888&vCenter=true&size=45%22">
 <img width="40%" align="right" alt="Github" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/d8f244271a7c56bc9fcb22f80505708c_w200.gif" /> 
 
 <p align="center"> 
@@ -31,8 +18,21 @@
 |  <img height="50px" width="200px" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" ctrl="kaviyarasan-1997" /> |
 
 </p>
- 
+
+-------------
+
+<Details>
+<Summary> Profile Info</summary>
+
+| <IMG height="300px" width="240px" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/7fdce2dc9307aff4f5acb88cc06b5904.gif"> | 
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+| ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;  <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views "/>  | 
+| <a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Cantact-yellow?style=square&logo=gmail"></a> 
+
+</Details>
+
 ---------------
+
 <details>
 <Summary><b7>CHECK MY UPDATE</b7></summary>
 
