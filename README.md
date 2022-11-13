@@ -1,9 +1,13 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROFILE&font=Bold&width=650&height=120&color=000888&vCenter=true&size=45%22">
+#  <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROFILE&font=Bold&width=650&height=120&color=000888&vCenter=true&size=45%22">
 
+<Details>
+<Summary> Profile Info</summary>
 | <IMG height="300px" width="240px" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/7fdce2dc9307aff4f5acb88cc06b5904.gif"> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;  <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views "/>  | 
 | <a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Cantact-yellow?style=square&logo=gmail"></a> 
+
+</Details>
 
 ----------- 
 
@@ -28,8 +32,8 @@
 </p>
  
 ---------------
-
-𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀
+<details>
+<Summary>𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀</summary>
 
 <p align="center"> 
   <a href="https://t.me/kaviyarasan-1997"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
@@ -44,14 +48,20 @@
 
 </p> 
 
+</Details>
+
 -----------
 
- # GITHUB STATUS 
+<Details>
+
+<Summary>   GITHUB STATUS </summary>
 
 <p align="center"> 
 </p>
  <a href="https://github.com/kaviyarasan-1997/handle-path-oz"><img alt="MR-TAMIZLAN's github stats"src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&show_icons=true&theme=highcontrast"/> </a> 
  <img height="115px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&hide=html&layout=compact&theme=highcontrast"/>
+
+</Details>
 
 ## Languages and Tools:
 
