@@ -27,7 +27,7 @@
 | <IMG height="300px" width="340px" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/dynamic-website-designing.gif"> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;  <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views "/>  | 
-| <a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Cantact-yellow?style=square&logo=gmail"></a> 
+| <a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-kaviyarasan1997ceo@gmail.com-green?style=square&logo=gmail"></a> 
 
 </Details>
 
