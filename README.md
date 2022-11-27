@@ -39,9 +39,9 @@
 <p align="center"> 
   <a href="https://t.me/kaviyarasan_1997"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
   <a href="https://instagram.com/kaviyarasan_1997_" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=square&logo=instagram&logoColor=white" target="blank"></a>
-  <a href="https://kaviyarasan_1997.github.io/dream-ideas/"><img src="https://img.shields.io/badge/oogle-website%20-green.svg?style=square&logo=Google"></a>
+  <a href="https://kaviyarasan-1997.github.io/profile/"><img src="https://img.shields.io/badge/oogle-website%20-green.svg?style=square&logo=Google"></a>
   <a href="https://twitter.com/kaviyarasanceo"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white">  
-  <a href="https://wordpress.com/https://kaviyarasan.code.blog/"><img src="https://img.shields.io/badge/-wordpress%20-blue.svg?style=square&logo=WordPress"></a>
+  <a href="https://kaviyarasan1997.code.blog/"><img src="https://img.shields.io/badge/-wordpress%20-blue.svg?style=square&logo=WordPress"></a>
   <a href="https://www.facebook.com/profile.php?id=100086184981928/"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>
   <a href="https://youtube.com/channel/UCRloyqEQYhM9Oep5bj8fP6w"><img src="https://img.shields.io/youtube/channel/subscribers/UCxV8fWQAm7s-S7RVK51yw-A?V?label=Subscribers&style=square&color=red&labelColor=ce453"/> </a> 
   <a href="https://LinkedIn.com/https://dreamideas.code.blog/"><img src="https://img.shields.io/badge/linkedin%20-blue.svg?style=square&logo=LinkedIn"></a>
@@ -59,7 +59,7 @@
 
 <p align="center"> 
 </p>
- <a href="https://github.com/kaviyarasan-1997/handle-path-oz"><img alt="MR-TAMIZLAN's github stats"src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&show_icons=true&theme=highcontrast"/> </a> 
+ <a href="https://github.com/kaviyarasan-1997/handle-path-oz"><img alt="kaviyarasan-1997 github stats"src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&show_icons=true&theme=highcontrast"/> </a> 
  <img height="115px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&hide=html&layout=compact&theme=highcontrast"/>
 
 </Details>
