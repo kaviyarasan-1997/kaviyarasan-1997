@@ -62,9 +62,8 @@
 
 <p align="center"> 
 </p>
- <a href="https://github.com/kaviyarasan-1997/handle-path-oz"><img alt="kaviyarasan-1997 github stats"src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&show_icons=true&theme=highcontrast"/> </a> 
- <img height="115px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&hide=html&layout=compact&theme=highcontrast"/>
-
+ <a href="https://github.com/kaviyarasan-1997/handle-path-oz"><img alt="kaviyarasan-1997 github stats"src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&layout=compact&show_icons=true&theme=highcontrast&border_color=960606&custom_title=KAVIYARASAN"/> </a> 
+ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&hide=html&layout=compact&theme=highcontrast&border_radius=20&border_color=960606&custom_title=KAVIYARASAN"/>
 </Details>
 
 <Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
