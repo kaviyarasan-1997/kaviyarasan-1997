@@ -87,7 +87,7 @@
 <Summary>Servers</summary>
 <P>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=square&logo=heroku&logoColor=white"/> </a>
-<img alt="oketo" src="https://img.shields.io/badge/oketo-%23430098.svg?&style=square&logo=oketo&logoColor=white"/> 
+<img alt="OKTETO" src="https://img.shields.io/badge/OKTETO-%23430098.svg?&style=square&logo=OKTETO&logoColor=white"/> 
 </P>
 </Details>
 </Details>
