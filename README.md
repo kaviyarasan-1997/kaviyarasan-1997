@@ -88,6 +88,7 @@
 <P>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=square&logo=heroku&logoColor=white"/> </a>
 <img alt="OKTETO" src="https://img.shields.io/badge/OKTETO-%23430098.svg?&style=square&logo=OKTETO&logoColor=white"/> 
+<img alt="Google cloud" src="https://img.shields.io/badge/google-cloud-%23430098.svg?&style=square&logo=googlecloud&logoColor=white"/> </a>
 </P>
 </Details>
 </Details>
