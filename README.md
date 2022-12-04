@@ -72,19 +72,24 @@
 <Summary> Languages and Tools </summary>
 
  <p align="center"> 
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=square&logo=python&logoColor=white"/> 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=square&logo=html5&logoColor=white"/> 
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=square&logo=css3&logoColor=white"/> 
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=square&logo=c%2B%2B&ogoColor=white"/> 
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=square&logo=mysql&logoColor=white"/> 
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=square&logo=mongodb&logoColor=white"/> 
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=square&logo=postgresql&logoColor=white"/> 
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=square&logo=amazon-aws&logoColor=white"/>
-<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=square&logo=google-cloud&logoColor=white"/> 
-<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=square&logo=heroku&logoColor=white"/> 
+<img alt="Html" src="https://img.shields.io/badge/html-%2314354C.svg?&style=square&logo=python&logoColor=white"/> 
+<img alt="Css" src="https://img.shields.io/badge/css-%23E34F26.svg?&style=square&logo=html5&logoColor=white"/> 
+<img alt="Java" src="https://img.shields.io/badge/java-%231572B6.svg?&style=square&logo=css3&logoColor=white"/> 
+<img alt="Python" src="https://img.shields.io/badge/python-%2300599C.svg?&style=square&logo=python%2B%2B&logoColor=white"/> 
+<img alt="SQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=square&logo=mysql&logoColor=white"/> 
+<img alt="php" src ="https://img.shields.io/badge/php-%234ea94b.svg?&style=square&logo=php&logoColor=white"/> 
+<img alt="kotlin" src ="https://img.shields.io/badge/kotlin-%23316192.svg?&style=square&logo=kotlin&logoColor=white"/> 
+<img alt="dotnet" src="https://img.shields.io/badge/dotnet-%23FF9900.svg?&style=square&logo=dotnet&logoColor=white"/>
+<img alt="c++" src="https://img.shields.io/badge/c++-%234285F4.svg?&style=square&logo=c++&logoColor=white"/> 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=square&logo=github&logoColor=white"/>
  </p>
-
+<Details>
+<Summary>Servers</summary>
+<P>
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=square&logo=heroku&logoColor=white"/> </a>
+<img alt="oketo" src="https://img.shields.io/badge/oketo-%23430098.svg?&style=square&logo=oketo&logoColor=white"/> 
+</P>
+</Details>
 </Details>
 <Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
 
