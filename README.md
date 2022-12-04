@@ -1,4 +1,6 @@
- <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROFILE&font=Bold&width=650&height=120&color=008888&vCenter=true&size=45%22">
+ <Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROFILE&font=Bold&width=650&height=120&color=008888&vCenter=true&size=45%22">
 <img width="50%" align="right" alt="Github" src="https://telegra.ph/file/de6353b00f5dd6095fd2b.jpg" /> 
 
 <p align="center"> 
@@ -7,6 +9,8 @@
 - 𝐼 ℎ𝑎𝑣𝑒 𝑎 𝑘𝑒𝑒𝑛 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑡𝑜 𝑏𝑒𝑐𝑜𝑚𝑒 𝑎 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑎𝑙𝑠𝑜 𝐼 𝑠𝑡𝑎𝑟𝑡𝑒𝑑 𝑡ℎ𝑎𝑡 𝑡𝑜𝑜. 𝑌𝑎! 𝐼'𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 𝑛𝑎𝑚𝑒 𝑖𝑠 [ᴋᴀᴠɪʏᴀʀᴀsᴀɴ](https://youtube.com/@kaviyarasan1997ceo) 𝐷𝑜𝑛'𝑡 𝑓𝑜𝑟𝑔𝑒𝑡 𝑡𝑜 𝑔𝑖𝑣𝑒 𝑎 𝑣𝑖𝑠𝑖𝑡 𝑡𝑜 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙. 𝐴𝑛𝑑 𝑦𝑒𝑠, 
 - 𝐼 𝑎𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑏𝑙𝑜𝑔𝑔𝑒𝑟 𝑎𝑡 ["ᴋᴀᴠɪʏᴀʀᴀsᴀɴ"](https://kaviyarasan1997code.tech.blog/). 𝐴𝑛𝑑 𝑜𝑛𝑒 𝑚𝑜𝑟𝑒 𝑖𝑚𝑝𝑜𝑟𝑡𝑎𝑛𝑡 𝑡ℎ𝑖𝑛𝑔, 
 - 𝐼'𝑚 𝑎 𝑙𝑒𝑓𝑡𝑖𝑠𝑡 𝑡ℎ𝑖𝑛𝑘𝑒𝑟 𝑎𝑛𝑑 ℎ𝑎𝑣𝑒 𝑙𝑜𝑡𝑠 𝑜𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑖𝑛 𝑝𝑜𝑙𝑖𝑡𝑖𝑐𝑠 𝑠𝑜 𝐼 𝑠𝑡𝑟𝑜𝑛𝑔𝑙𝑦 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑡ℎ𝑎𝑡 
+<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
+
 ```
   POLITICAL POWER GROWS OUT OF THE BARREL OF A GUN 
 
@@ -19,7 +23,8 @@
 
 </p>
 
--------------
+<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
+
 
 <Details>
 <Summary> Profile Info</summary>
@@ -31,7 +36,7 @@
 
 </Details>
 
----------------
+<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
 
 <details>
 <Summary><b7>CHECK MY UPDATE</b7></summary>
@@ -51,7 +56,8 @@
 
 </Details>
 
------------
+<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
+
 
 <Details>
 
@@ -80,7 +86,8 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=square&logo=github&logoColor=white"/>
  </p>
 
------------
+<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
+
 
  <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROJECT'S&font=&center=true&width=650&height=120&color=008000&vCenter=true&size=45%22">
 <img src="https://avideo.tube/website/assets/151/images/svg/balancing.svg"/>
@@ -113,6 +120,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=DONT+FORGET+FOLLOW+ME+ON+GITHUB&font=&center=true&width=680&height=70&color=ff0000&vCenter=true&size=35%20">
 </details>
 
+<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
 
 
       
