@@ -72,14 +72,16 @@
 <Summary> Languages and Tools </summary>
 
  <p align="center"> 
-<img alt="Html" src="https://img.shields.io/badge/html-%2314354C.svg?&style=square&logo=python&logoColor=white"/> 
-<img alt="Css" src="https://img.shields.io/badge/css-%23E34F26.svg?&style=square&logo=html5&logoColor=white"/> 
-<img alt="Java" src="https://img.shields.io/badge/java-%231572B6.svg?&style=square&logo=css3&logoColor=white"/> 
-<img alt="Python" src="https://img.shields.io/badge/python-%2300599C.svg?&style=square&logo=python%2B%2B&logoColor=white"/> 
+<img alt="python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=square&logo=python&logoColor=white"/> 
+<img alt="Css" src="https://img.shields.io/badge/css3-%23E34F26.svg?&style=square&logo=css3&logoColor=white"/> 
+<img alt="Java" src="https://img.shields.io/badge/java-%231572B6.svg?&style=square&logo=java&logoColor=white"/> 
+<img alt="html" src="https://img.shields.io/badge/html-%2300599C.svg?&style=square&logo=python%2B%2B&logoColor=white"/> 
 <img alt="SQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=square&logo=mysql&logoColor=white"/> 
 <img alt="php" src ="https://img.shields.io/badge/php-%234ea94b.svg?&style=square&logo=php&logoColor=white"/> 
 <img alt="kotlin" src ="https://img.shields.io/badge/kotlin-%23316192.svg?&style=square&logo=kotlin&logoColor=white"/> 
-<img alt="dotnet" src="https://img.shields.io/badge/dotnet-%23FF9900.svg?&style=square&logo=dotnet&logoColor=white"/>
+<img alt="dotnet" src="https://img.shields.io/badge/. 🥅
+
+My group-%23FF9900.svg?&style=square&logo=dotnet&logoColor=white"/>
 <img alt="c++" src="https://img.shields.io/badge/c++-%234285F4.svg?&style=square&logo=c++&logoColor=white"/> 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=square&logo=github&logoColor=white"/>
  </p>
