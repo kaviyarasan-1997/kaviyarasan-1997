@@ -73,9 +73,9 @@
 
  <p align="center"> 
 <img alt="python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=square&logo=python&logoColor=white"/> 
-<img alt="Css" src="https://img.shields.io/badge/css3-%23E34F26.svg?&style=square&logo=css3&logoColor=white"/> 
-<img alt="Java" src="https://img.shields.io/badge/java-%231572B6.svg?&style=square&logo=java&logoColor=white"/> 
-<img alt="Html" src="https://img.shields.io/badge/html5-%2300599C.svg?&style=square&logo=html5%2B%2B&logoColor=white"/> 
+<img alt="Css" src="https://img.shields.io/badge/css-%23E34F26.svg?&style=square&logo=css3&logoColor=white"/> 
+<img alt="JAVA" src="https://img.shields.io/badge/JAVA-%231572B6.svg?&style=square&logo=JAVA&logoColor=white"/> 
+<img alt="Html" src="https://img.shields.io/badge/HTML-%2314354C.svg?&style=square&logo=HTML%2B%2B&logoColor=white"/> 
 <img alt="SQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=square&logo=mysql&logoColor=white"/> 
 <img alt="php" src ="https://img.shields.io/badge/php-%234ea94b.svg?&style=square&logo=php&logoColor=white"/> 
 <img alt="kotlin" src ="https://img.shields.io/badge/kotlin-%23316192.svg?&style=square&logo=kotlin&logoColor=white"/> 
@@ -87,8 +87,8 @@
 <Summary>Servers</summary>
 <P>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=square&logo=heroku&logoColor=white"/> </a>
-<img alt="OKTETO" src="https://img.shields.io/badge/OKTETO-%23430098.svg?&style=square&logo=OKTETO&logoColor=white"/> 
-<img alt="Google cloud" src="https://img.shields.io/badge/google-cloud-%23430098.svg?&style=square&logo=googlecloud&logoColor=white"/> </a>
+<img alt="OKTETO" src="https://img.shields.io/badge/OKTETO-%23467098.svg?&style=square&logo=OKTETO&logoColor=white"/> 
+<img alt="Google cloud" src="https://img.shields.io/badge/google-cloud-%298530098.svg?&style=square&logo=googlecloud&logoColor=white"/> </a>
 </P>
 </Details>
 </Details>
