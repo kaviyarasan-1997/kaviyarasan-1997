@@ -93,7 +93,7 @@
 <P>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=square&logo=heroku&logoColor=white"/> </a>
 <img alt="OKTETO" src="https://img.shields.io/badge/OKTETO-%23467098.svg?&style=square&logo=OKTETO&logoColor=white"/> 
-<img alt="Google cloud" src="https://img.shields.io/badge/google-cloud-%298530098.svg?&style=square&logo=googlecloud&logoColor=white"/> </a>
+<a href="https://google.org" target="_blank" rel="noreferrer"> <img src="https://github.com/KAVIYARASAN-1997/photos-videos-gif/blob/main/etc/Png/gcp.png" alt="Google" width="70" height="60"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </P>
 </Details>
