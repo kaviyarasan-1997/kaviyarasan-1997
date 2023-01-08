@@ -107,7 +107,8 @@
 <summary><b7>MY  PROJECTS</b7></summary>
  <br> 
 <p align="left">
- ★1.<a href="https://github.com/KAVIYARASAN-1997/Telegram">𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼</a> 
+ ★1.<a href="https://github.com/KAVIYARASAN-1997/Telegram"><img src="https://readme-typing-svg.herokuapp.com/?lines=TELEGRAM%20PROJECT&font=Bold&width=650&height=120&color=008888&vCenter=true&size=45%22">
+</a> 
 </p>
  <p align="left">
  ★2.<a href="">𝚆𝙴𝙱𝚂𝙸𝚃𝙴𝚂</a> 
