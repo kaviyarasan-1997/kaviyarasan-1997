@@ -107,28 +107,35 @@
 <summary><b7>MY  PROJECTS</b7></summary>
  <br> 
 <p align="left">
- ★1.<a href="https://github.com/KAVIYARASAN-1997/Telegram"><img src="https://readme-typing-svg.herokuapp.com/?lines=TELEGRAM%20PROJECT&font=Bold&width=650&height=120&color=008888&vCenter=true&size=45%22">
+ <a href="https://github.com/KAVIYARASAN-1997/Telegram"><img src="https://readme-typing-svg.herokuapp.com/?lines=TELEGRAM%20PROJECT&font=Bold&width=650&height=90&color=008888&vCenter=true&size=35%22">
 </a> 
 </p>
  <p align="left">
- ★2.<a href="">𝚆𝙴𝙱𝚂𝙸𝚃𝙴𝚂</a> 
+  <a href=""> <img src="https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙱𝚂𝙸𝚃𝙴%20PROJECT&font=Bold&width=650&height=90&color=008888&vCenter=true&size=35%22">
+</a> 
 </p> 
 <p align="left"> 
-★3.<a href="">𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝚂</a> 
+<a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=SOFT%20PROJECT&font=Bold&width=650&height=90&color=008888&vCenter=true&size=35%22">
+</a> 
 </p>
  <p align="left">
- ★4.<a href="">𝙶𝙰𝙼𝙴𝚂</a>
+ <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=GAME%20PROJECT&font=Bold&width=650&height=90&color=008888&vCenter=true&size=35%22">
+</a>
  </p> 
 <p align="left">
- ★5.<a href="https://github.com/KAVIYARASAN-1997/apks">𝙰𝙿𝙿𝙻𝙸𝙲𝙰𝚃𝙸𝙾𝙽𝚂</a>
+ <a href="https://github.com/KAVIYARASAN-1997/apks"><img src="https://readme-typing-svg.herokuapp.com/?lines=APPLICATION%20PROJECT&font=Bold&width=650&height=90&color=008888&vCenter=true&size=35%22">
+</a>
  </p> 
 <p align="left">
- ★6.<a href="">𝙰𝙳𝚅𝙰𝙽𝙲𝙴 𝚆𝙴𝙱𝚂𝙸𝚃𝙴𝚂</a> 
+ <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=ADVANCE+%20𝚆𝙴𝙱𝚂𝙸𝚃𝙴%20PROJECT&font=Bold&width=650&height=90&color=008888&vCenter=true&size=35%22">
+</a> 
 </p> <P align="left">
- ★7.<a href="">𝙼𝙾𝙳𝙴𝙻'𝚂</a> 
+ <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Model%20PROJECT&font=Bold&width=650&height=90&color=008888&vCenter=true&size=35%22">
+</a> 
 </P> 
 <P align="left"> 
-★8.<a href="">𝙰𝚁𝚃𝙸𝙵𝙸𝙲𝙸𝙰𝙻 𝙸𝙽𝚃𝙴𝙻𝙻𝙸𝙶𝙴𝙽𝙲𝙴</a>
+<a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=𝙰𝚁𝚃𝙸𝙵𝙸𝙲𝙸𝙰𝙻+%20𝙸𝙽𝚃𝙴𝙻𝙻𝙸𝙶𝙴𝙽𝙲𝙴%20PROJECT&font=Bold&width=650&height=90&color=008888&vCenter=true&size=35%22">
+</a>
  </P> 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=DONT+FORGET+FOLLOW+ME+ON+GITHUB&font=&center=true&width=680&height=70&color=ff0000&vCenter=true&size=35%20">
 </details>
