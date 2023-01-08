@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROFILE&font=Bold&width=650&height=120&color=008888&vCenter=true&size=45%22">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROFILE&font=Bold&width=650&height=120&color=008888&vCenter=true&size=45%22">
 <img width="50%" align="right" alt="Github" src="https://telegra.ph/file/de6353b00f5dd6095fd2b.jpg" /> 
 
 <p align="center"> 
