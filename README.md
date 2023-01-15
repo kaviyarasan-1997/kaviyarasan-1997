@@ -141,6 +141,7 @@
 </details>
 
 
-<Img height="50" width="80" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/animationmine.gif"> Check my projects and any doubts contact me guys
-<a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=MY%20PROJECT'S&font=Bold&width=650&height=30&color=#008888&vCenter=true&size=35%22">
-</a> 
+|<Img height="50" width="80" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/animationmine.gif"> |<img src="https://readme-typing-svg.herokuapp.com/?lines=Check%20My%20Project's&font=Bold&width=650&height=200&color=ff00ff&Cright=true&size=30%29">|
+|:----|-----:|
+|OWNER|[  © Kaviyarasan](https://github.com/KAVIYARASAN-1997)|
+
