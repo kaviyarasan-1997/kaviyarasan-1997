@@ -24,7 +24,7 @@
 
 
 <Details>
-<Summary>🙎 Profile Info</summary>
+<Summary>🙎🏽 Profile Info</summary>
 
 | <IMG height="300px" width="340px" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/dynamic-website-designing.gif"> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
@@ -37,7 +37,7 @@
 <Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
 
 <details>
-<Summary><b7>CHECK MY UPDATE</b7></summary>
+<Summary><b7>🧑🏽‍💻CHECK MY UPDATE</b7></summary>
 
 <p align="center"> 
   <a href="https://t.me/kaviyarasan_1997"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
@@ -140,5 +140,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=DONT+FORGET+FOLLOW+ME+ON+GITHUB&font=&center=true&width=680&height=70&color=ff0000&vCenter=true&size=35%20">
 </details>
 
-....
-<Img height="40" width="40" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/animationmine.gif">
+
+<Img height="50" width="80" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/animationmine.gif">
+<a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=MY%20PROJECT'S&font=Bold&width=650&height=30&color=#008888&vCenter=true&size=35%22">
+</a> 
