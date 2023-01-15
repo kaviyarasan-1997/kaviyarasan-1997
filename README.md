@@ -24,7 +24,7 @@
 
 
 <Details>
-<Summary> Profile Info</summary>
+<Summary>🙎 Profile Info</summary>
 
 | <IMG height="300px" width="340px" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/dynamic-website-designing.gif"> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
@@ -59,18 +59,18 @@
 
 <Details>
 
-<Summary>   GITHUB STATUS </summary>
+<Summary> 📊  GITHUB STATUS </summary>
 
 <p align="center"> 
 </p>
- <a href="https://github.com/kaviyarasan-1997/handle-path-oz"><img alt="kaviyarasan-1997 github stats"src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&layout=compact&show_icons=true&theme=highcontrast&border_color=960606&bg_color=0,52fa5a,4dfcff,c64dff&custom_title=KAVIYARASAN"/> </a> 
- <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&hide=html&layout=compact&theme=highcontrast&border_radius=20&border_color=960606&bg_color=0,52fa5a,4dfcff,c64dff&custom_title=KAVIYARASAN"/>
+ <a href="https://github.com/kaviyarasan-1997/handle-path-oz"><img alt="kaviyarasan-1997 github stats"src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&layout=compact&show_icons=true&theme=dark&border_color=960606&bg_color=0,52fa5a,4dfcff,c64dff&custom_title=KAVIYARASAN"/> </a> 
+ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&hide=html&layout=compact&theme=dark&border_radius=20&border_color=960606&bg_color=0,52fa5a,4dfcff,c64dff&custom_title=KAVIYARASAN"/>
 </Details>
 
 <Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
 
 <Details>
-<Summary> Languages and Tools </summary>
+<Summary>🛠️ Languages and Tools </summary>
 
 <p align="left">
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -89,7 +89,7 @@
  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
  </p>
 <Details>
-<Summary>Servers</summary>
+<Summary>🖥️Servers</summary>
 <P>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=square&logo=heroku&logoColor=white"/> </a>
 <img alt="OKTETO" src="https://img.shields.io/badge/OKTETO-%23467098.svg?&style=square&logo=OKTETO&logoColor=white"/> 
@@ -139,3 +139,6 @@
  </P> 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=DONT+FORGET+FOLLOW+ME+ON+GITHUB&font=&center=true&width=680&height=70&color=ff0000&vCenter=true&size=35%20">
 </details>
+
+....
+![](https://evil/github-readme.vercel.app/api?type=horizontal&theme=radical)
