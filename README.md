@@ -142,5 +142,4 @@
 
 |<Img height="50" width="80" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/animationmine.gif"> |<img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/inbox-zero-dark.svg">|
 |:----|-----:|
-|OWNER|[© Kaviyarasan](https://github.com/KAVIYARASAN-1997)|
 
