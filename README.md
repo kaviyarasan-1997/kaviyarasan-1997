@@ -62,10 +62,7 @@
 
 <p align="center"> 
  <img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/inbox-zero-dark.svg">
- <img src="https://github-stats-alpha.vercel.app/api/?username=kaviyarasan-1997&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
- <a href="https://github.com/kaviyarasan-1997/handle-path-oz"><img alt="kaviyarasan-1997 github stats"src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&layout=compact&show_icons=true&theme=dark&border_color=960606&bg_color=0,52fa5a,4dfcff,c64dff&custom_title=KAVIYARASAN"/> </a> 
- <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&hide=html&layout=compact&theme=dark&border_radius=20&border_color=960606&bg_color=0,52fa5a,4dfcff,c64dff&custom_title=KAVIYARASAN"/>
-
+ <img src="https://github-stats-alpha.vercel.app/api/?username=kaviyarasan-1997&cc=000&tc=00ff00&ic=fff000&bc=ff"theme="purple&align="center">
 </P>
 </Details>
 
@@ -141,8 +138,3 @@
  </P> 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=DONT+FORGET+FOLLOW+ME+ON+GITHUB&font=&center=true&width=680&height=70&color=ff0000&vCenter=true&size=35%20">
 </details>
-
-
-|<Img height="50" width="80" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/animationmine.gif"> |<img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/inbox-zero-dark.svg">|
-|:----|-----:|
-
