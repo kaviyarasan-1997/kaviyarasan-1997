@@ -62,7 +62,7 @@
 
 <p align="center"> 
  <img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/inbox-zero-dark.svg">
- <img src="https://github-stats-alpha.vercel.app/api/?username=kaviyarasan-1997&cc=000&tc=00ff00&ic=fff000&bc=ff"theme="purple&align="center">
+ <img src="https://github-stats-alpha.vercel.app/api/?username=kaviyarasan-1997&cc=000&tc=00ff00&ic=fff000&bc=ff" theme="purple" align="center">
 </P>
 </Details>
 
