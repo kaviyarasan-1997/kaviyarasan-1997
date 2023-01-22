@@ -139,13 +139,15 @@
  </P> 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=DONT+FORGET+FOLLOW+ME+ON+GITHUB&font=&center=true&width=680&height=70&color=ff0000&vCenter=true&size=35%20">
 </details>
- 
+
+ <Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
+
 # Sponsors 
-  - [Infonetix]()
-  - [Unknown]()
+  
+<p align="center">
+
+| <img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=2000&color=00f00&multiline=true&height=140&lines=Thank+You+For+Visiting+My+GitHub+Profile;Don't+Forget+follow+Me+On+GitHub;Check-My+projects+Follow+Me+On+%5BGithub%F0%9F%92%A1%5D;Contact-%5BInfonetix%5D....."> | [Infonetix]() |
+|:---:|:---:|
+</p>
 
 <Img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=2000&color=00f00&multiline=true&height=120&lines=Thank+You+For+Visiting+My+GitHub+Profile%EF%B8%8F.;%C2%BB;Don't+Forget+follow+Me+On+GitHub;%C2%BB;Check-My+projects+Follow+Me+On+%5BGithub%F0%9F%92%A1%5D;Contact-%5BInfonetix%5D.....">
-</p>
