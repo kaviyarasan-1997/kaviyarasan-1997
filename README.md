@@ -103,7 +103,8 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROJECT'S&font=&center=true&width=650&height=120&color=008000&vCenter=true&size=45%22">
 <img src="https://avideo.tube/website/assets/151/images/svg/balancing.svg"/>
 <details> 
-<summary><b7>MY  PROJECTS</b7></summary>
+<img width="210" height="100" align="left" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/marketplace-illustration-01.svg"> 
+<summary><b7> MY  PROJECTS</b7></summary>
  <br> 
 <p align="left">
  <a href="https://github.com/KAVIYARASAN-1997/Telegram"><img src="https://readme-typing-svg.herokuapp.com/?lines=TELEGRAM%20PROJECT&font=Bold&width=700&height=30&color=#008888&vcenter=true&size=35%22">
