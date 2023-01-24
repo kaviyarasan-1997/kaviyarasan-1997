@@ -151,5 +151,5 @@
 | <img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=2000&color=00f00&multiline=true&height=140&lines=Thank+You+For+Visiting+My+GitHub+Profile;Don't+Forget+follow+Me+On+GitHub;Check-My+projects+Follow+Me+On+%5BGithub%F0%9F%92%A1%5D;Contact-%5BInfonetix%5D....."> | [Infonetix]() |
 |:---:|:---:|
 </p>
-
 <Img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaviyarasan-1997" alt="kaviyarasan-1997" /></a> </p>
