@@ -154,4 +154,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaviyarasan-1997" alt="kaviyarasan-1997" /></a> </p><h3 align="left">Support:</h3>
 <Img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/>
-<p><a href="https://co-fi.com/Kaviyarasan-1997"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="150" alt="Kaviyarasan-1997" /></a></p><br><br>
+<p><a href="https://ko-fi.com/Kaviyarasan-1997"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="150" alt="Kaviyarasan-1997" /></a></p><br><br>
