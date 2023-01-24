@@ -25,7 +25,7 @@
 <Details>
 <Summary>🙎🏽 Profile Info</summary>
 
-| <IMG height="250px" width="auto" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/dynamic-website-designing.gif"> | 
+| <IMG height="250px" width="300" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/dynamic-website-designing.gif"> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;  <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views "/>  | 
 | ![Stars](https://img.shields.io/github/stars/kaviyarasan-1997?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)|
