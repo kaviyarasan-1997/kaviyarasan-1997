@@ -25,11 +25,13 @@
 <Details>
 <Summary>🙎🏽 Profile Info</summary>
 
-| <IMG height="250px" width="300" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/dynamic-website-designing.gif"> | 
+| <IMG height="300px" width="300" align="center" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/dynamic-website-designing.gif"> | 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-| ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;  <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views "/>  | 
-| ![Stars](https://img.shields.io/github/stars/kaviyarasan-1997?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)|
-| <a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-kaviyarasan1997ceo@gmail.com-green?style=square&logo=gmail"></a> 
+| ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;  <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views "/>     ![Stars](https://img.shields.io/github/stars/kaviyarasan-1997?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | 
+|<a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-kaviyarasan1997ceo@gmail.com-green?style=square&logo=gmail"></a>|
+  | <img src="https://readme-typing-svg.herokuapp.com/?lines=IF%20YOU;NEED%20;OWN%2B%20WEBSITES%20DYNAMIC%20AND%20STATIC;WEBSITES%20YOUR%20BUSNISSE%20APPLICATIONS%20AND%20BOTS%ETC..%20CONTACT%20ME&font=Pacifico&center=true&width=650&height=30&color=008888&vCenter=true&size=10%12">     
+   |
+  
 
 </Details>
 
@@ -175,7 +177,7 @@
   
 <p align="center">
 
-| <img src="https://readme-typing-svg.herokuapp.com?font=&size=14&duration=2000&color=00f00&multiline=true&height=140&lines=Thank+You+For+Visiting+My+GitHub+Profile;Don't+Forget+follow+Me+On+GitHub;Check-My+projects+Follow+Me+On+%5BGithub%F0%9F%92%A1%5D;Contact-%5BInfonetix%5D....."> | [Infonetix]() |
+| <img src="https://readme-typing-svg.herokuapp.com?font=&size=19&duration=2000&color=00f00&multiline=true&height=140&lines=Thank+You+For+Visiting+My+GitHub+Profile;Don't+Forget+follow+Me+On+GitHub;Check-My+projects+Follow+Me+On+%5BGithub%F0%9F%92%A1%5D;Contact-%5BInfonetix%5D....."> | [Infonetix]() |
 |:---:|:---:|
 </p>
 
