@@ -3,10 +3,7 @@
 
 <p align="center"> 
 
-- H𝑒𝑙𝑙𝑜 𝐼'𝑚 ᴋᴀᴠɪʏᴀʀᴀsᴀɴ 𝑀.𝑆𝑐 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒  
-<a href="https://kaviyarasan-1997.github.io/biodata/"><Img width="40%" height="20" align="right" src="https://img.shields.io/badge/My-Portfolio-E31414?style=squar&logo=I&logoColor=white"/>
-
-𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛.  
+- H𝑒𝑙𝑙𝑜 𝐼'𝑚 ᴋᴀᴠɪʏᴀʀᴀsᴀɴ 𝑀.𝑆𝑐 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛.  
 - 𝐼 ℎ𝑎𝑣𝑒 𝑎 𝑘𝑒𝑒𝑛 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑡𝑜 𝑏𝑒𝑐𝑜𝑚𝑒 𝑎 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑎𝑙𝑠𝑜 𝐼 𝑠𝑡𝑎𝑟𝑡𝑒𝑑 𝑡ℎ𝑎𝑡 𝑡𝑜𝑜. 𝑌𝑎! 𝐼'𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 𝑛𝑎𝑚𝑒 𝑖𝑠   [ɪɴғᴏᴛᴀʟᴋɪᴇs](https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE)
 - 𝐼 𝑎𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑏𝑙𝑜𝑔𝑔𝑒𝑟 𝑎𝑡 ["ɪɴғᴏᴛᴀʟᴋɪᴇs "](https://kaviyarasan1997code.tech.blog/). 𝐴𝑛𝑑 𝑜𝑛𝑒 𝑚𝑜𝑟𝑒 𝑖𝑚𝑝𝑜𝑟𝑡𝑎𝑛𝑡 𝑡ℎ𝑖𝑛𝑔, 
 - 𝐼'𝑚 𝑎 𝑙𝑒𝑓𝑡𝑖𝑠𝑡 𝑡ℎ𝑖𝑛𝑘𝑒𝑟 𝑎𝑛𝑑 ℎ𝑎𝑣𝑒 𝑙𝑜𝑡𝑠 𝑜𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑖𝑛 𝑝𝑜𝑙𝑖𝑡𝑖𝑐𝑠 𝑠𝑜 𝐼 𝑠𝑡𝑟𝑜𝑛𝑔𝑙𝑦 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑡ℎ𝑎𝑡 
@@ -18,8 +15,8 @@
 
 |  <a href="https://github.com/kaviyarasan-1997"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;Kaviyarasan%20;5%2B%20years%20of%20coding%20Experience;Always%20Learning%20New%20Technologys&font=Pacifico&center=true&width=650&height=120&color=008888&vCenter=true&size=45%22"></a>|
 |:------:| 
-|  <img height="50px" width="200px" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" ctrl="kaviyarasan-1997" /> |
-
+|  <a href="https://kaviyarasan-1997.github.io/biodata/"><Img width="80%" height="40" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> | 
+  
 </p>
 
 <Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
