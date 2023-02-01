@@ -2,13 +2,10 @@
 <img width="40%" align="right" alt="Github" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/Screenshot_2023_0108_110354.jpg"/>
 
 <p align="center"> 
-
-- H𝑒𝑙𝑙𝑜 𝐼'𝑚 [ᴋᴀᴠɪʏᴀʀᴀsᴀɴ](https://kaviyarasan-1997.github.io/profile/) 𝑀.𝑆𝑐 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛. 
-<a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img align="right" width="115" src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/> 
+- H𝑒𝑙𝑙𝑜 𝐼'𝑚 ᴋᴀᴠɪʏᴀʀᴀsᴀɴ 𝑀.𝑆𝑐 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛. <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img align="right" width="40%" src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/> 
 
 - 𝐼 ℎ𝑎𝑣𝑒 𝑎 𝑘𝑒𝑒𝑛 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑡𝑜 𝑏𝑒𝑐𝑜𝑚𝑒 𝑎 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑎𝑙𝑠𝑜 𝐼 𝑠𝑡𝑎𝑟𝑡𝑒𝑑 𝑡ℎ𝑎𝑡 𝑡𝑜𝑜. 𝑌𝑎! 𝐼'𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 𝑛𝑎𝑚𝑒 𝑖𝑠 
-  𝐷𝑜𝑛'𝑡 𝑓𝑜𝑟𝑔𝑒𝑡 𝑡𝑜 𝑔𝑖𝑣𝑒 𝑎 𝑣𝑖𝑠𝑖𝑡 𝑡𝑜 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙. [INFO TALKIES](https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE)
- 𝐴𝑛𝑑 𝑦𝑒𝑠, 
+  𝐷𝑜𝑛'𝑡 𝑓𝑜𝑟𝑔𝑒𝑡 𝑡𝑜 𝑔𝑖𝑣𝑒 𝑎 𝑣𝑖𝑠𝑖𝑡 𝑡𝑜 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙. [INFO TALKIES](https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE)𝐴𝑛𝑑 𝑦𝑒𝑠, 
 - 𝐼 𝑎𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑏𝑙𝑜𝑔𝑔𝑒𝑟 𝑎𝑡 ["ɪɴғᴏᴛᴀʟᴋɪᴇs "](https://kaviyarasan1997code.tech.blog/). 𝐴𝑛𝑑 𝑜𝑛𝑒 𝑚𝑜𝑟𝑒 𝑖𝑚𝑝𝑜𝑟𝑡𝑎𝑛𝑡 𝑡ℎ𝑖𝑛𝑔, 
 - 𝐼'𝑚 𝑎 𝑙𝑒𝑓𝑡𝑖𝑠𝑡 𝑡ℎ𝑖𝑛𝑘𝑒𝑟 𝑎𝑛𝑑 ℎ𝑎𝑣𝑒 𝑙𝑜𝑡𝑠 𝑜𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑖𝑛 𝑝𝑜𝑙𝑖𝑡𝑖𝑐𝑠 𝑠𝑜 𝐼 𝑠𝑡𝑟𝑜𝑛𝑔𝑙𝑦 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑡ℎ𝑎𝑡 
 
