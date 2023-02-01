@@ -3,7 +3,8 @@
 
 <p align="center"> 
 
-- H𝑒𝑙𝑙𝑜 𝐼'𝑚 ᴋᴀᴠɪʏᴀʀᴀsᴀɴ 𝑀.𝑆𝑐 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛.  
+- H𝑒𝑙𝑙𝑜 𝐼'𝑚 ᴋᴀᴠɪʏᴀʀᴀsᴀɴ 𝑀.𝑆𝑐 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 <a href="https://infotalkies.github.io.com/"><Img width="40%" height="20" align="right" src="https://img.shields.io/badge/My-Portfolio-E31414?style=squar&logo=I&logoColor=white"/>
+𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛.  
 - 𝐼 ℎ𝑎𝑣𝑒 𝑎 𝑘𝑒𝑒𝑛 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑡𝑜 𝑏𝑒𝑐𝑜𝑚𝑒 𝑎 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑎𝑙𝑠𝑜 𝐼 𝑠𝑡𝑎𝑟𝑡𝑒𝑑 𝑡ℎ𝑎𝑡 𝑡𝑜𝑜. 𝑌𝑎! 𝐼'𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 𝑛𝑎𝑚𝑒 𝑖𝑠   [ɪɴғᴏᴛᴀʟᴋɪᴇs](https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE)
 - 𝐼 𝑎𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑏𝑙𝑜𝑔𝑔𝑒𝑟 𝑎𝑡 ["ɪɴғᴏᴛᴀʟᴋɪᴇs "](https://kaviyarasan1997code.tech.blog/). 𝐴𝑛𝑑 𝑜𝑛𝑒 𝑚𝑜𝑟𝑒 𝑖𝑚𝑝𝑜𝑟𝑡𝑎𝑛𝑡 𝑡ℎ𝑖𝑛𝑔, 
 - 𝐼'𝑚 𝑎 𝑙𝑒𝑓𝑡𝑖𝑠𝑡 𝑡ℎ𝑖𝑛𝑘𝑒𝑟 𝑎𝑛𝑑 ℎ𝑎𝑣𝑒 𝑙𝑜𝑡𝑠 𝑜𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑖𝑛 𝑝𝑜𝑙𝑖𝑡𝑖𝑐𝑠 𝑠𝑜 𝐼 𝑠𝑡𝑟𝑜𝑛𝑔𝑙𝑦 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑡ℎ𝑎𝑡 
@@ -43,7 +44,7 @@
 <p align="center"> 
   <a href="https://t.me/kaviyarasan_1997"><img src="https://img.shields.io/badge/TELEGRAM%20-blue.svg?style=square&logo=Telegram"></a> 
   <a href="https://instagram.com/kaviyarasan_1997_" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=square&logo=instagram&logoColor=white" target="blank"></a>
-  <a href="https://kaviyarasan-1997.github.io/biodata/"><img src="https://img.shields.io/badge/oogle-website%20-green.svg?style=square&logo=Google"></a>
+  <a href="https://infotalkies.github.io.com/"><img src="https://img.shields.io/badge/oogle-website%20-green.svg?style=square&logo=Google"></a>
   <a href="https://infotalkies.code.blog/"><img src="https://img.shields.io/badge/-wordpress%20-blue.svg?style=square&logo=WordPress"></a>
   <a href="https://www.facebook.com/profile.php?id=100086184981928&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  
   <a href="https://www.linkedin.com/in/kaviyarasan-1997-developer"><img src="https://img.shields.io/badge/linkedin%20-blue.svg?style=square&logo=LinkedIn"></a>
