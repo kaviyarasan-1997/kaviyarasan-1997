@@ -48,7 +48,7 @@
   <a href="https://kaviyarasan1997code.tech.blog/"><img src="https://img.shields.io/badge/-wordpress%20-blue.svg?style=square&logo=WordPress"></a>
   <a href="https://www.facebook.com/profile.php?id=100086184981928/"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>
   <a href="https://youtube.com/channel/UCRloyqEQYhM9Oep5bj8fP6w"><img src="https://img.shields.io/youtube/channel/subscribers/UCRloyqEQYhM9Oep5bj8fP6w?label=Subscribers&style=square&color=red&labelColor=ce453"/> </a> 
-  <a href="https://www.linkedin.com/in/kaviyarasan-developer-8857a8258"><img src="https://img.shields.io/badge/linkedin%20-blue.svg?style=square&logo=LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kaviyarasan-1997-developer"><img src="https://img.shields.io/badge/linkedin%20-blue.svg?style=square&logo=LinkedIn"></a>
   <a href="https://github.com/kaviyarasan-1997"><img target="_blank" src="https://img.shields.io/badge/kaviyarasan-1997-blue?style=square&logo=github&logoColor=black"/></a> 
 
 </p> 
