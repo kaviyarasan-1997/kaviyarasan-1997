@@ -46,10 +46,10 @@
   <a href="https://kaviyarasan-1997.github.io/profile/"><img src="https://img.shields.io/badge/oogle-website%20-green.svg?style=square&logo=Google"></a>
   <a href="https://twitter.com/kaviyarasanceo"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white">  
   <a href="https://kaviyarasan1997code.tech.blog/"><img src="https://img.shields.io/badge/-wordpress%20-blue.svg?style=square&logo=WordPress"></a>
-  <a href="https://www.facebook.com/profile.php?id=100086184981928/"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>
-  <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><img src="https://img.shields.io/youtube&style=square&color=red&labelColor=ce453"/> </a> 
+  <a href="https://www.facebook.com/profile.php?id=100086184981928/"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  
   <a href="https://www.linkedin.com/in/kaviyarasan-1997-developer"><img src="https://img.shields.io/badge/linkedin%20-blue.svg?style=square&logo=LinkedIn"></a>
   <a href="https://github.com/kaviyarasan-1997"><img target="_blank" src="https://img.shields.io/badge/kaviyarasan-1997-blue?style=square&logo=github&logoColor=black"/></a> 
+  <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/>
 
 </p> 
 
