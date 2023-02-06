@@ -12,10 +12,6 @@
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;   <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views"/>     ![Stars](https://img.shields.io/github/stars/kaviyarasan-1997?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | 
 
-
-```
-  POLITICAL POWER GROWS OUT OF THE BARREL OF A GUN 
-```
 </p>
 
 |  <a href="https://github.com/kaviyarasan-1997"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;Kaviyarasan%20;5%2B%20years%20of%20coding%20Experience;Always%20Learning%20New%20Technologys&font=Pacifico&center=true&width=650&height=120&color=008888&vCenter=true&size=45%22"></a>|
@@ -42,28 +38,17 @@
  |:------------|:-----------:|
 </P>
 </Details>
-
-<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
-
-
-
- <Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
-
-# Sponsors 
-  
-<p align="center">
-
-| <img src="https://readme-typing-svg.herokuapp.com?font=&size=19&duration=2000&color=00f00&multiline=true&width=600&height=100&lines=Thank+You+For+Visiting+My+GitHub+Profile;Don't+Forget+follow+Me+On+GitHub;Check-My+projects+Follow+Me+On+%5BGithub%F0%9F%92%A1%5D;Contact-%5BInfonetix%5D....."> | [Infonetix]() |
-|:---:|:---:|
-</p>
-
-
-
-<h3 align="left">Support:</h3>
+<Details>
+<Summary><h3 align="left">Support:</h3></summary>
 <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/>
 <a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  
 <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
+</Details>
 
-# :<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/READ.md">☞ NEXT PAGE </a>
+```
+  POLITICAL POWER GROWS OUT OF THE BARREL OF A GUN 
+```
+
+:<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/READ.md">☞ NEXT PAGE </a>
 
 <Img width="400" src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/>
