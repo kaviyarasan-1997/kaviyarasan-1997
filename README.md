@@ -191,4 +191,4 @@
  
 <Img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/>
 
-# :<a href="Read.md">☞ NEXT PAGE </a>
+# :<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/READ.md">☞ NEXT PAGE </a>
