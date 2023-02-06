@@ -180,15 +180,14 @@
 |:---:|:---:|
 </p>
 
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaviyarasan-1997" alt="kaviyarasan-1997" /></a> 
-</p>
+
 
 <h3 align="left">Support:</h3>
 <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/>
 <a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  
 <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
- 
+
 <Img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/>
+
 
 # :<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/READ.md">☞ NEXT PAGE </a>
