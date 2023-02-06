@@ -8,6 +8,11 @@
 - 𝐼 𝑎𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑏𝑙𝑜𝑔𝑔𝑒𝑟 𝑎𝑡 ["ɪɴғᴏᴛᴀʟᴋɪᴇs "](https://kaviyarasan1997code.tech.blog/). 𝐴𝑛𝑑 𝑜𝑛𝑒 𝑚𝑜𝑟𝑒 𝑖𝑚𝑝𝑜𝑟𝑡𝑎𝑛𝑡 𝑡ℎ𝑖𝑛𝑔, 
 - 𝐼'𝑚 𝑎 𝑙𝑒𝑓𝑡𝑖𝑠𝑡 𝑡ℎ𝑖𝑛𝑘𝑒𝑟 𝑎𝑛𝑑 ℎ𝑎𝑣𝑒 𝑙𝑜𝑡𝑠 𝑜𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑖𝑛 𝑝𝑜𝑙𝑖𝑡𝑖𝑐𝑠 𝑠𝑜 𝐼 𝑠𝑡𝑟𝑜𝑛𝑔𝑙𝑦 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑡ℎ𝑎𝑡 
 
+| <a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-kaviyarasan1997ceo@gmail.com-green?style=square&logo=gmail"></a>|
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+| ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;   <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views"/>     ![Stars](https://img.shields.io/github/stars/kaviyarasan-1997?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | 
+
+
 ```
   POLITICAL POWER GROWS OUT OF THE BARREL OF A GUN 
 ```
@@ -24,26 +29,6 @@
 
 </Details>
 
-<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
-
-<details>
-<Summary><b7>🧑🏽‍💻CHECK MY UPDATE</b7></summary>
-
-<p align="center"> 
-  <a href="https://t.me/kaviyarasan_1997"><img src="https://img.shields.io/badge/TELEGRAM%20-blue.svg?style=square&logo=Telegram"></a> 
-  <a href="https://instagram.com/kaviyarasan_1997_" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=square&logo=instagram&logoColor=white" target="blank"></a>
-  <a href="https://kaviyarasan-1997.github.io/biodata/"><img src="https://img.shields.io/badge/oogle-website%20-green.svg?style=square&logo=Google"></a>
-  <a href="https://infotalkies.code.blog/"><img src="https://img.shields.io/badge/-wordpress%20-blue.svg?style=square&logo=WordPress"></a>
-  <a href="https://www.facebook.com/profile.php?id=100086184981928&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  
-  <a href="https://www.linkedin.com/in/kaviyarasan-1997-developer"><img src="https://img.shields.io/badge/linkedin%20-blue.svg?style=square&logo=LinkedIn"></a>
-  <a href="https://github.com/kaviyarasan-1997"><img target="_blank" src="https://img.shields.io/badge/kaviyarasan-1997-blue?style=square&logo=github&logoColor=black"/></a> 
-  <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/>
-
-</p> 
-
-</Details>
-
-<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
 
 
 <Details>
@@ -121,7 +106,6 @@
 <a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  
 <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
 
-<Img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/>
-
-
 # :<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/READ.md">☞ NEXT PAGE </a>
+
+<Img width="400" src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/>
