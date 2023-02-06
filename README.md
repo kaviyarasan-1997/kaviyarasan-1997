@@ -15,7 +15,7 @@
 
 |  <a href="https://github.com/kaviyarasan-1997"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;Kaviyarasan%20;5%2B%20years%20of%20coding%20Experience;Always%20Learning%20New%20Technologys&font=Pacifico&center=true&width=650&height=120&color=008888&vCenter=true&size=45%22"></a>|
 |:------:| 
-|  <a href="https://kaviyarasan-1997.github.io/biodata/"><Img width="80%" height="40" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> | 
+|  <a href="https://kaviyarasan-1997.github.io/biodata/"><Img width="40%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> | 
   
 </p>
 
@@ -190,3 +190,5 @@
 <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
  
 <Img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/>
+
+# :<a href="Read.md">☞ NEXT PAGE </a>
