@@ -62,7 +62,7 @@
 <Summary> 📊  GITHUB STATUS </summary>
 
 <p align="center"> 
- <img width="200" height="100" align="center" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/inbox-zero-dark.svg">
+ <img width="200" height="100" align="center" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/inbox-zero.svg">
 
  |<Img width="700" src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&show_icons=true&80%&theme=radical"/> | ![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&theme=radical&layout=fit) |
  |:------------|:-----------:|
