@@ -37,7 +37,7 @@
 <Details>
 <Summary>MY PROFILE Details</summary>
 
-|||
+|Check my profile|<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Profile.md">My Profile</a>|
 |:----:|:----:|
 |||
 |||
