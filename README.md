@@ -10,15 +10,14 @@
 ```
   POLITICAL POWER GROWS OUT OF THE BARREL OF A GUN 
 ```
-| <a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-kaviyarasan1997ceo@gmail.com-green?style=square&logo=gmail"></a>|
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
+</P>
+<P align="center">
+
+|<a href="https://github.com/kaviyarasan-1997"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;Kaviyarasan%20;5%2B%20years%20of%20coding%20Experience;Always%20Learning%20New%20Technologys&font=Pacifico&center=true&width=650&height=120&color=008888&vCenter=true&size=45%22"></a>|
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|<a href="mailto:kaviyarasan1997ceo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-kaviyarasan1997ceo@gmail.com-green?style=square&logo=gmail"></a>|
 | ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;   <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views"/>     ![Stars](https://img.shields.io/github/stars/kaviyarasan-1997?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | 
-
-</p>
-
-|  <a href="https://github.com/kaviyarasan-1997"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;Kaviyarasan%20;5%2B%20years%20of%20coding%20Experience;Always%20Learning%20New%20Technologys&font=Pacifico&center=true&width=650&height=120&color=008888&vCenter=true&size=45%22"></a>|
-|:------:| 
-|  <a href="https://kaviyarasan-1997.github.io/biodata/"><Img width="40%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> | 
+| <a href="https://kaviyarasan-1997.github.io/biodata/"><Img width="40%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/> <a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> | 
   
 </p>
 
@@ -36,14 +35,6 @@
 </P>
 </Details>
 <Details>
-<Summary>🦾Support Me</summary>
-<a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/>
-<a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  
-<a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> 
-</Details>
-
-
-
 
 
 <a href="https://GitHub.com/kaviyarasan-1997"><Img width="400" src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/></a>
