@@ -42,7 +42,7 @@
 |Language and tools|<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Language.md">Language Tools</a>|
 |Achievements|<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Achievements.md">Achievements</a>|
 |Cantact and Updates|<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Update.md">Cantact</a>|
-|||
+|My Projects|<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Works.md">My Projects</a>|
 
 </Details>
 
