@@ -34,13 +34,16 @@
  |:------------|:-----------:|
 </P>
 </Details>
+<Details>
 <Summary>MY PROFILE Details</summary>
+
+|||
+|:----:|:----:|
 |||
 |||
 |||
 |||
-|||
-|||
+
 </Details>
 
 <a href="https://GitHub.com/kaviyarasan-1997"><Img width="400" src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/></a>
