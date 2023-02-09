@@ -35,7 +35,7 @@
 </P>
 </Details>
 <Details>
-<Summary>MY PROFILE Details</summary>
+<Summary>🧑🏽‍💻MY PROFILE Details</summary>
 
 |Check my profile|<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Profile.md">My Profile</a>|
 |:----:|:----:|
@@ -46,4 +46,4 @@
 
 </Details>
 
-<a href="https://GitHub.com/kaviyarasan-1997"><Img width="400" src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/></a>
+<a href="https://GitHub.com/kaviyarasan-1997"><Img width="300" align="center" src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/></a>
