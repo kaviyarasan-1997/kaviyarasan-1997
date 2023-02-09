@@ -1,4 +1,4 @@
-|<IMG SRC="https://github.com/KAVIYARASAN-1997/Telegram/blob/main/etc/Photo_1668143851021.png"> |
+|<IMG SRC="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/Photo_1668143851021.png"> |
 |:---------:
         
 
