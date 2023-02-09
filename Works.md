@@ -9,7 +9,7 @@
 <summary><b7> MY  PROJECTS</b7></summary>
  <br> 
 <p align="left">
- <a href="https://github.com/KAVIYARASAN-1997/Telegram"><img src="https://readme-typing-svg.herokuapp.com/?lines=TELEGRAM%20PROJECT&font=Bold&width=700&height=30&color=#008888&vcenter=true&size=35%22">
+ <a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Telegram.md"><img src="https://readme-typing-svg.herokuapp.com/?lines=TELEGRAM%20PROJECT&font=Bold&width=700&height=30&color=#008888&vcenter=true&size=35%22">
 </a> 
 </p>
  <p align="left">
