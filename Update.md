@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <a href="https://t.me/kaviyarasan_1997"><img src="https://img.shields.io/badge/TELEGRAM%20-blue.svg?style=square&logo=Telegram"></a> 
-  <a href="https://instagram.com/kaviyarasan_1997_" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=square&logo=instagram&logoColor=white" target="blank"></a>
+  <a href="https://instagram.com/kaviyarasan_developer" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=square&logo=instagram&logoColor=white" target="blank"></a>
   <a href="https://kaviyarasan-1997.github.io/biodata/"><img src="https://img.shields.io/badge/oogle-website%20-green.svg?style=square&logo=Google"></a>
   <a href="https://infotalkies.code.blog/"><img src="https://img.shields.io/badge/-wordpress%20-blue.svg?style=square&logo=WordPress"></a>
   <a href="https://www.facebook.com/profile.php?id=100086184981928&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  
