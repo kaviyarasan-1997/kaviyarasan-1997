@@ -25,7 +25,7 @@
 </a>
  </p> 
 <p align="left">
- <a href="https://github.com/KAVIYARASAN-1997/apks"><img src="https://readme-typing-svg.herokuapp.com/?lines=APPLICATION%20PROJECT&font=Bold&width=650&height=30&color=#008888&vCenter=true&size=35%22">
+ <a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Application.md"><img src="https://readme-typing-svg.herokuapp.com/?lines=APPLICATION%20PROJECT&font=Bold&width=650&height=30&color=#008888&vCenter=true&size=35%22">
 </a>
  </p> 
 <p align="left">
