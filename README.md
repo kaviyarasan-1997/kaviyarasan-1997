@@ -22,7 +22,6 @@
 </p>
 
 </Details>
-
 <Details>
 
 <Summary> 📊  GITHUB STATUS </summary>
@@ -45,5 +44,5 @@
 |My Projects|<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Works.md">My Projects</a>|
 
 </Details>
-
-<a href="https://GitHub.com/kaviyarasan-1997"><Img width="300" align="center" src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/></a>
+<Img width="50" height="50" align="right" src="ETC/handshake.gif">
+<a href="https://GitHub.com/kaviyarasan-1997"><Img width="210" align="left" src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20-blue?style=squre&align=center&logo=github"/></a>
