@@ -55,10 +55,11 @@
 </P>
 </Details>
 </Details>
+
 <Details>
-<Summary> Code Storage Servers</summary>
+<Summary> <img height="20" width="20" src="ETC/code.gif"> Code Storage Servers</summary>
 <img width="50" height="50" src="ETC/visual-studio-code-2019.png">
-<img width="50" height="50"  "ETC/github.png">
-<img width="50" height="50" "ETC/git.png">
-<img width="50" height="50"  "ETC/android-os.png ">
+<img width="50" height="50"  src="ETC/github.png">
+<img width="50" height="50" src="ETC/git.png">
+<img width="50" height="50"  src="ETC/android-os.png">
 </Details>
