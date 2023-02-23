@@ -57,8 +57,8 @@
 </Details>
 <Details>
 <Summary> Code Storage Servers</summary>
-<img width="50" height="50" align="" src="ETC/visual-studio-code-2019.png">
-<img width="50" height="50"  "github.png">
-<img width="50" height="50" "git.png">
-<img width="50" height="50"  "android-os.png ">
+<img width="50" height="50" src="ETC/visual-studio-code-2019.png">
+<img width="50" height="50"  "ETC/github.png">
+<img width="50" height="50" "ETC/git.png">
+<img width="50" height="50"  "ETC/android-os.png ">
 </Details>
