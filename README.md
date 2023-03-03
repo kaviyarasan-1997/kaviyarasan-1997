@@ -39,7 +39,7 @@
 <Details>
 <Summary><code>🧑🏽‍💻MY PROFILE Details</code></summary>
 
-|Check my profile|<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Profile.md">My Profile</a>|
+|SPONSORS|<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/sponsor.md">MY SPONSORSHIPS</a>|
 |:----:|:----:|
 |Language and tools|<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Language.md">Language Tools</a>|
 |Achievements|<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Achievements.md">Achievements</a>|
