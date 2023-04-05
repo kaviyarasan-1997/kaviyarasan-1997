@@ -1,5 +1,5 @@
 <Img src="https://readme-typing-svg.herokuapp.com?font=Rye&pause=500&color=0844080&width=255&height=30&lines=CHECK+-+MY+-+PROFILE">
-<img width="40%" align="right" alt="Github" src=""/>
+<Json width="40%" align="right" alt="Github" src="ETC/89953-coder.json"/>
 
 <p align="center"> 
 
