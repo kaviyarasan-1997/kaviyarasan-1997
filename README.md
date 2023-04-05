@@ -1,5 +1,5 @@
 <Img src="https://readme-typing-svg.herokuapp.com?font=Rye&pause=500&color=0844080&width=255&height=30&lines=CHECK+-+MY+-+PROFILE">
-<img width="40%" align="right" alt="Github" src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/Screenshot_2023_0108_110354.jpg"/>
+<img width="40%" align="right" alt="Github" src="ETC/95116-coder.gif"/>
 
 <p align="center"> 
 
