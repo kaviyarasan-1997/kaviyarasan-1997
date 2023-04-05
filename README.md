@@ -1,3 +1,7 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<h1 align="center">Hello 👋, I'm KAVIYARASAN</h1>
+<h3 align="center"> Developer from India</h3>
+
 <Img src="https://readme-typing-svg.herokuapp.com?font=Rye&pause=500&color=0844080&width=255&height=30&lines=CHECK+-+MY+-+PROFILE">
 <Json width="40%" align="right" alt="Github" src="ETC/89953-coder.json"/>
 
