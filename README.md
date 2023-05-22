@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hello 👋, I'm KAVIYARASAN</h1>
+<h1 align="center">Hello 👋, I'm KAVIN</h1>
 <h3 align="center"> Developer from India</h3>
 
 <Img src="https://readme-typing-svg.herokuapp.com?font=Rye&pause=500&color=0844080&width=255&height=30&lines=CHECK+-+MY+-+PROFILE">
@@ -7,7 +7,7 @@
 
 <p align="center"> 
 
-<img height="20" width="20" align="left" src="ETC/code.gif">  H𝑒𝑙𝑙𝑜 𝐼'𝑚 ᴋᴀᴠɪʏᴀʀᴀsᴀɴ 𝑀.𝑆𝑐 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛.  
+<img height="20" width="20" align="left" src="ETC/code.gif">  H𝑒𝑙𝑙𝑜 𝐼'𝑚 ᴋᴀᴠɪɴ 𝑀.𝑆𝑐 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛.  
 
 <img height="20" width="20" align="left" src="ETC/code.gif"> 𝐼 ℎ𝑎𝑣𝑒 𝑎 𝑘𝑒𝑒𝑛 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑡𝑜 𝑏𝑒𝑐𝑜𝑚𝑒 𝑎 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑎𝑙𝑠𝑜 𝐼 𝑠𝑡𝑎𝑟𝑡𝑒𝑑 𝑡ℎ𝑎𝑡 𝑡𝑜𝑜. 𝑌𝑎! 𝐼'𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 𝑛𝑎𝑚𝑒 𝑖𝑠   [ɪɴғᴏᴛᴀʟᴋɪᴇs](https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE)
 
