@@ -6,8 +6,7 @@
 <Img src="https://readme-typing-svg.herokuapp.com?font=Rye&pause=500&color=0844080&width=255&height=30&lines=CHECK+-+MY+-+PROFILE">
  
 <img width="40%" align="right" alt="Github" src="ETC/logo.png"/>
-
-![followers](https://img.shields.io/github/followers/infolite-in style=square&logo=github&logoColor=black)&nbsp;   
+  
 <img src="https://komarev.com/ghpvc/?username=infolite-in" alt=" Profile views"/>     
  ![Stars](https://img.shields.io/github/stars/infolite-in?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
  
