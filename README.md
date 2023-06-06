@@ -7,11 +7,11 @@
  
 <img width="40%" align="right" alt="Github" src="ETC/logo.png"/>
 
-(https://img.shields.io/github/followers/infolite-in style=square&logo=github&logoColor=black)&nbsp;   
+![followers](https://img.shields.io/github/followers/infolite-in style=square&logo=github&logoColor=black)&nbsp;   
 <img src="https://komarev.com/ghpvc/?username=infolite-in" alt=" Profile views"/>     
- ![Stars](https://img.shields.io/github/stars/infolite-in?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | 
+ ![Stars](https://img.shields.io/github/stars/infolite-in?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
  
-| <Details><summary><code>Social Media Pages</code></summary><a href="https://infolite-in.github.io/biodata/"><Img width="40%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/> <a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> </Details> | 
+<Details><summary><code>Social Media Pages</code></summary><a href="https://infolite-in.github.io/biodata/"><Img width="40%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/> <a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> </Details> | 
   
 </p>
 
