@@ -7,24 +7,20 @@
 
 <p align="center"> 
 
-<img height="20" width="20" align="left" src="ETC/code.gif">  H𝑒𝑙𝑙𝑜 𝐼'𝑚 ᴋᴀᴠɪɴ 𝑀.𝑆𝑐 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑏𝑢𝑡 𝐼'𝑚 𝑛𝑜𝑡 𝑎 𝑏𝑜𝑜𝑘𝑖𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛.  
+<img height="20" width="20" align="left" src="ETC/code.gif">  src="ETC/code.gif">
 
-<img height="20" width="20" align="left" src="ETC/code.gif"> 𝐼 ℎ𝑎𝑣𝑒 𝑎 𝑘𝑒𝑒𝑛 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑡𝑜 𝑏𝑒𝑐𝑜𝑚𝑒 𝑎 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑎𝑙𝑠𝑜 𝐼 𝑠𝑡𝑎𝑟𝑡𝑒𝑑 𝑡ℎ𝑎𝑡 𝑡𝑜𝑜. 𝑌𝑎! 𝐼'𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑦𝑜𝑢𝑡𝑢𝑏𝑒𝑟 𝑎𝑛𝑑 𝑚𝑦 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 𝑛𝑎𝑚𝑒 𝑖𝑠   [ɪɴғᴏᴛᴀʟᴋɪᴇs](https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE)
-
-<img height="20" width="20" align="left" src="ETC/code.gif"> 𝐼 𝑎𝑚 𝑎 𝑏𝑢𝑑𝑑𝑖𝑛𝑔 𝑏𝑙𝑜𝑔𝑔𝑒𝑟 𝑎𝑡 [ɪɴғᴏᴛᴀʟᴋɪᴇs](https://Infotalkies.code.blog/) 𝐴𝑛𝑑 𝑜𝑛𝑒 𝑚𝑜𝑟𝑒 𝑖𝑚𝑝𝑜𝑟𝑡𝑎𝑛𝑡 𝑡ℎ𝑖𝑛𝑔, 
-
-<img height="20" width="20" align="left" src="ETC/code.gif"> 𝐼'𝑚 𝑎 𝑙𝑒𝑓𝑡𝑖𝑠𝑡 𝑡ℎ𝑖𝑛𝑘𝑒𝑟 𝑎𝑛𝑑 ℎ𝑎𝑣𝑒 𝑙𝑜𝑡𝑠 𝑜𝑓 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑖𝑛 𝑝𝑜𝑙𝑖𝑡𝑖𝑐𝑠 𝑠𝑜 𝐼 𝑠𝑡𝑟𝑜𝑛𝑔𝑙𝑦 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑡ℎ𝑎𝑡 
+<img height="20" width="20" align="left" src="ETC/code.gif">
 ```
-  POLITICAL POWER GROWS OUT OF THE BARREL OF A GUN 
+ 
 ```
 </P>
 <P align="center">
 
-|<a href="https://github.com/kaviyarasan-1997"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;Kaviyarasan%20;5%2B%20years%20of%20coding%20Experience;Always%20Learning%20New%20Technologys&font=Pacifico&center=true&width=650&height=120&color=008888&vCenter=true&size=45%22"></a>|
+|<a href="https://github.com/infolite-in"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am;Kavin%20;5%2B%20years%20of%20coding%20Experience;Always%20Learning%20New%20Technologys&font=Pacifico&center=true&width=650&height=120&color=008888&vCenter=true&size=45%22"></a>|
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
-|<Code><a href="mailto:kaviyarasanthala1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-kaviyarasanthala1997@gmail.com-green?style=square&logo=gmail"></a></code>|
-| ![GitHub followers](https://img.shields.io/github/followers/kaviyarasan-1997?style=square&logo=github&logoColor=black)&nbsp;   <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views"/>     ![Stars](https://img.shields.io/github/stars/kaviyarasan-1997?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | 
-| <Details><summary><code>Social Media Pages</code></summary><a href="https://kaviyarasan-1997.github.io/biodata/"><Img width="40%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/> <a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> </Details> | 
+|<Code><a href="mailto:kavin1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-kavin1997@gmail.com-green?style=square&logo=gmail"></a></code>|
+| ![GitHub followers](https://img.shields.io/github/followers/infolite-in?style=square&logo=github&logoColor=black)&nbsp;   <img src="https://komarev.com/ghpvc/?username=infolite-in" alt=" Profile views"/>     ![Stars](https://img.shields.io/github/stars/infolite-in?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | 
+| <Details><summary><code>Social Media Pages</code></summary><a href="https://infolite-in.github.io/biodata/"><Img width="40%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/> <a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> </Details> | 
   
 </p>
 
