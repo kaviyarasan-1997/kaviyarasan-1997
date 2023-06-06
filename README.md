@@ -1,9 +1,9 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<img src="ETC/LogoMakerCa-1686048742012.png">
 <h1 align="center">Hello 👋, I'm KAVIN</h1>
 <h3 align="center"> Developer from India</h3>
 
 <Img src="https://readme-typing-svg.herokuapp.com?font=Rye&pause=500&color=0844080&width=255&height=30&lines=CHECK+-+MY+-+PROFILE">
-<img width="40%" align="right" alt="Github" src="ETC/97525-code-dark.gif"/>
+<img width="40%" align="right" alt="Github" src="ETC/logo.png"/>
 
 <p align="center"> 
 
