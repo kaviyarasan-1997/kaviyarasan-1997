@@ -1,4 +1,4 @@
-<img src="ETC/LogoMakerCa-1686048742012.png">
+
 
 <h1 align="center">Hello 👋, I'm KAVIYARASAN</h1>
 <h3 align="center"> Developer from India</h3>
