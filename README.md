@@ -7,7 +7,7 @@ Kaviyarasan here, I am a budding coder, having interest to create auto reply bot
  
 <img width="40%" align="right" alt="Github" src="ETC/logo.png"/>
   
-<img src="https://komarev.com/ghpvc/?username=infolite-in" alt=" Profile views"/>     
+<img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views"/>     
 
  
 <Details><summary><code>Social Media Pages</code></summary><a href="https://infolite-in.github.io/biodata/"><Img width="40%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/> <a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> </Details>
