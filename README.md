@@ -10,7 +10,10 @@ Kaviyarasan here, I am a budding coder, having interest to create auto reply bot
 <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views"/>     
 
  
-<Details><summary><code>Social Media Pages</code></summary><a href="https://infolite-in.github.io/biodata/"><Img width="40%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/> <a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a> </Details>
+<Details>
+ <summary><code>Social Media Pages</code></summary> 
+ <a href="https://kaviyarasan-1997.github.io/biodata/"><Img width="10%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/> <a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a>
+</Details>
   
 </p>
 
@@ -20,17 +23,15 @@ Kaviyarasan here, I am a budding coder, having interest to create auto reply bot
 <Summary> <code>📊  GITHUB STATUS</code> </summary>
 
 <p align="center"> 
- <img width="200" height="100" align="center" src="https://github.com/infolite-in/infolite-in/blob/main/ETC/inbox-zero.svg">
-
- <Img width="700" src="https://github-readme-stats.vercel.app/api?username=infolite-in&show_icons=true&80%&theme=radical"/> 
- ![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=infolite-in&theme=radical&layout=fit) 
- 
+<img src=https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&theme=dark&show_icons=true&hide_border=false&count_private=false>
+ <img src=https://github-readme-streak-stats.herokuapp.com/?user=kaviyarasan-1997&theme=dark&hide_border=false>
+ <img width="50%" hight="50%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&theme=dark&show_icons=true&hide_border=false&layout=compact>
 </P>
 </Details>
 <Details>
 <Summary><code>🧑🏽‍💻MY PROFILE Details</code></summary>
 
-SPONSORS|<a href="https://github.com/KAVIYARASAN-1997/inflite-in/blob/main/sponsor.md">MY SPONSORSHIPS</a>
+SPONSORS|<a href="https://github.com/KAVIYARASAN-1997/kaviyarasan-1997/blob/main/sponsor.md">MY SPONSORSHIPS</a>
 
 Language and tools<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Language.md">Language Tools</a>
 Achievements<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Achievements.md">Achievements</a>
