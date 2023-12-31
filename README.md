@@ -34,6 +34,7 @@ Kaviyarasan here, I am a budding coder, having interest to create auto reply bot
 SPONSORS|<a href="https://github.com/KAVIYARASAN-1997/kaviyarasan-1997/blob/main/sponsor.md">MY SPONSORSHIPS</a>
 
 <img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/profile-first-pr-dark.svg">
+-------------------------------------------------------------------
 <Details>
 <Summary>🛠️ Languages and Tools </summary>
 
@@ -72,6 +73,7 @@ SPONSORS|<a href="https://github.com/KAVIYARASAN-1997/kaviyarasan-1997/blob/main
  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> 
  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="30" height="30"/> </a>
  </p>
+ -----------------------------------------------------------------
 <Details>
 <Summary>🖥️Servers</summary>
 <P>
@@ -82,6 +84,7 @@ SPONSORS|<a href="https://github.com/KAVIYARASAN-1997/kaviyarasan-1997/blob/main
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </P>
 </Details>
+-----------------------------------------------------------------
 <Details>
 <Summary> Databases</summary>
 <P>
@@ -90,10 +93,7 @@ SPONSORS|<a href="https://github.com/KAVIYARASAN-1997/kaviyarasan-1997/blob/main
 </P>
 </Details>
 </Details>
-Achievements<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Achievements.md">Achievements</a>
-<img src="ETC/dynamic-website-designing.gif">
-<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
-
+------------------------------------------------------------------
 <details>
 <Summary><b7>🧑🏽‍💻CHECK MY UPDATE</b7></summary>
 
@@ -121,9 +121,11 @@ Achievements<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/m
 
 <Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
 
- 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROJECT'S&font=&center=true&width=650&height=120&color=008000&vCenter=true&size=45%22">
 
 </Details>
 
+Achievements<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Achievements.md">Achievements</a>
+<img src="ETC/dynamic-website-designing.gif">
+<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
 
