@@ -2,42 +2,32 @@
 
 <h1 align="center">Hello 👋, I'm KAVIYARASAN</h1>
 <h3 align="center"> Developer from India</h3>
-Kaviyarasan here, I am a budding coder, having interest to create auto reply bots, websites and I am successful in that too, I will create a perfect website for your company to boost your profile and will create a portfolio to increase your opportunity, will create beautiful and professional PPTs, Photo editing but all at affordable rates without any compramise in quality.
+
+# Kaviyarasan here, I am a budding coder, having interest to create auto reply bots, websites and I am successful in that too, I will create a perfect website for your company to boost your profile and will create a portfolio to increase your opportunity, will create beautiful and professional PPTs, Photo editing but all at affordable rates without any compramise in quality.
+
+<img width="40%" hight="30" align="right" alt="Github" src="ETC/WhatsApp Image 2023-12-31 at 19.15.29_e564b4fd.jpg"/>
+
 <Img src="https://readme-typing-svg.herokuapp.com?font=Rye&pause=500&color=0844080&width=255&height=30&lines=CHECK+-+MY+-+PROFILE">
- 
-<img width="40%" align="right" alt="Github" src="ETC/WhatsApp Image 2023-12-31 at 19.15.29_e564b4fd.jpg"/>
-  
+
 <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views"/>     
 
+<a href="https://infolite-in.github.io/com/"><Img width="10%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/>
+
+<Details>
+<Summary> <code>📊  GITHUB STATUS </code> </summary>
  
-<Details>
- <summary><code>Social Media Pages</code></summary> 
- <a href="https://kaviyarasan-1997.github.io/biodata/"><Img width="10%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/> <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/> <a href="https://www.facebook.com/Info.Talkies.official?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  <a href="https://t.me/Infotalkies"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=square&logo=Telegram"></a>
+ <img src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&theme=dark&show_icons=true&hide_border=false&count_private=false">
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviyarasan-1997&theme=dark&hide_border=false">
+ 
+ <img width="50%" hight="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&theme=dark&show_icons=true&hide_border=false&layout=compact">
+ 
 </Details>
-  
-</p>
 
-</Details>
+------------------------------------------
+
 <Details>
-
-<Summary> <code>📊  GITHUB STATUS</code> </summary>
-
-<p align="center"> 
-<img src=https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&theme=dark&show_icons=true&hide_border=false&count_private=false>
- <img src=https://github-readme-streak-stats.herokuapp.com/?user=kaviyarasan-1997&theme=dark&hide_border=false>
- <img width="50%" hight="50%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&theme=dark&show_icons=true&hide_border=false&layout=compact>
-</P>
-</Details>
-<Details>
-<Summary><code>🧑🏽‍💻MY PROFILE Details</code></summary>
-
-SPONSORS|<a href="https://github.com/KAVIYARASAN-1997/kaviyarasan-1997/blob/main/sponsor.md">MY SPONSORSHIPS</a>
-
-<img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/profile-first-pr-dark.svg">
--------------------------------------------------------------------
-<Details>
-<Summary>🛠️ Languages and Tools </summary>
-
+<Summary>🛠️<code> Languages and Tools</code></summary>
 <p align="left">
  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> 
@@ -73,9 +63,12 @@ SPONSORS|<a href="https://github.com/KAVIYARASAN-1997/kaviyarasan-1997/blob/main
  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> 
  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="30" height="30"/> </a>
  </p>
+ </Details>
+ 
  -----------------------------------------------------------------
+
 <Details>
-<Summary>🖥️Servers</summary>
+<Summary><code>🖥️Servers</code></summary>
 <P>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
 <img alt="OKTETO" src="https://img.shields.io/badge/OKTETO-%23467098.svg?&style=square&logo=OKTETO&logoColor=white"/> 
@@ -84,48 +77,35 @@ SPONSORS|<a href="https://github.com/KAVIYARASAN-1997/kaviyarasan-1997/blob/main
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </P>
 </Details>
+
 -----------------------------------------------------------------
+
 <Details>
-<Summary> Databases</summary>
+<Summary> <code>Databases</code></summary>
 <P>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </P>
 </Details>
-</Details>
+
 ------------------------------------------------------------------
+
 <details>
-<Summary><b7>🧑🏽‍💻CHECK MY UPDATE</b7></summary>
-
+<Summary><b7><code>🧑🏽‍💻CHECK MY UPDATE</code></b7></summary>
 <p align="center"> 
-  
-<a href="https://t.me/kaviyarasan_1997"><img align="left" src="https://img.shields.io/badge/TELEGRAM%20-blue.svg?style=square&logo=Telegram"></a> 
-  
+<a href="https://t.me/kaviyarasan_1997"><img align="left" src="https://img.shields.io/badge/TELEGRAM%20-blue.svg?style=square&logo=Telegram"></a>  
 <a href="https://instagram.com/kaviyarasan_developer" target="blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=square&logo=instagram&logoColor=white" target="blank"></a>
-  
 <a href="https://kaviyarasan-1997.github.io/biodata/"><img align="left" src="https://img.shields.io/badge/oogle-website%20-green.svg?style=square&logo=Google"></a>
-  
 <a href="https://infotalkies.code.blog/"><img align="right" src="https://img.shields.io/badge/-wordpress%20-blue.svg?style=square&logo=WordPress"></a>
-  
 <a href="https://www.facebook.com/profile.php?id=100086184981928&mibextid=ZbWKwL"><img align="left" src="https://img.shields.io/badge/-Facebook-fffff7?style=square&logo=Facebook&logo-Facebook&Color=00088"></a>  
-  
 <a href="https://www.linkedin.com/in/kaviyarasan-1997-developer"><img align="right" src="https://img.shields.io/badge/linkedin%20-blue.svg?style=square&logo=LinkedIn"></a>
-  
 <a href="https://github.com/kaviyarasan-1997"><img align="left" target="_blank" src="https://img.shields.io/badge/kaviyarasan-1997-blue?style=square&logo=github&logoColor=black"/></a> 
-  
 <a href="https://youtube.com/@infotalkies?si=EnSIkaIECMiOmarE"><Img align="right" src="https://img.shields.io/badge/INFOTALKIES-E31414? ?style=squar&logo=youtube&logoColor=white"/>
-
-</p> 
-<Img src="ETC/profile-first-pr-dark.svg">
+</p>
 </Details>
-
-<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROJECT'S&font=&center=true&width=650&height=120&color=008000&vCenter=true&size=45%22">
 
-</Details>
-
 Achievements<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Achievements.md">Achievements</a>
-<img src="ETC/dynamic-website-designing.gif">
-<Img src="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/ETC/glowing-bar.gif">
+
 
