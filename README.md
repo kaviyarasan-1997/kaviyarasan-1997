@@ -5,7 +5,7 @@
 Kaviyarasan here, I am a budding coder, having interest to create auto reply bots, websites and I am successful in that too, I will create a perfect website for your company to boost your profile and will create a portfolio to increase your opportunity, will create beautiful and professional PPTs, Photo editing but all at affordable rates without any compramise in quality.
 <Img src="https://readme-typing-svg.herokuapp.com?font=Rye&pause=500&color=0844080&width=255&height=30&lines=CHECK+-+MY+-+PROFILE">
  
-<img width="40%" align="right" alt="Github" src="ETC/logo.png"/>
+<img width="40%" align="right" alt="Github" src="ETC/WhatsApp Image 2023-12-31 at 19.15.29_e564b4fd.jpg"/>
   
 <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views"/>     
 
