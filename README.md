@@ -106,6 +106,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=CHECK%20+MY%20PROJECT'S&font=&center=true&width=650&height=120&color=008000&vCenter=true&size=45%22">
 
-Achievements<a href="https://github.com/KAVIYARASAN-1997/KAVIYARASAN-1997/blob/main/Achievements.md">Achievements</a>
+Achievements<a href="https://github.com/kaviyarasan-1997?tab=achievements">Achievements</a>
 
 
