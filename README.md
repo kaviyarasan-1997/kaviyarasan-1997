@@ -5,7 +5,7 @@
 
 # a full stack developer and a YouTuber with 5 years of experience. I create web applications using various technologies, such as HTML, CSS, JavaScript, React, Node.js, MongoDB, and more. I also share my knowledge and passion for web development on my YouTube channel, where I post tutorials, tips, and challenges. 
 
-If you are looking for a reliable, creative, and enthusiastic full stack developer to work with, feel free to contact me. I would love to hear from you and discuss your ideas and requirements. Thank you for visiting my portfolio website!
+If you are looking for a reliable, creative, and enthusiastic full stack developer to work with, feel free to contact me. I would love to hear from you and discuss your ideas and requirements. Thank you for visiting my github!
 
 <img width="40%" hight="30" align="right" alt="Github" src="ETC/WhatsApp Image 2023-12-31 at 19.15.29_e564b4fd.jpg"/>
 
