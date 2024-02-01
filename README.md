@@ -3,7 +3,11 @@
 <h1 align="center">Hello 👋, I'm KAVIYARASAN</h1>
 <h3 align="center"> Developer from India</h3>
 
-# Kaviyarasan here, I am a budding coder, having interest to create auto reply bots, websites and I am successful in that too, I will create a perfect website for your company to boost your profile and will create a portfolio to increase your opportunity, will create beautiful and professional PPTs, Photo editing but all at affordable rates without any compramise in quality.
+# Hello, I'm Kaviyarasan, a full stack developer and a YouTuber with 5 years of experience. I create web applications using various technologies, such as HTML, CSS, JavaScript, React, Node.js, MongoDB, and more. I also share my knowledge and passion for web development on my YouTube channel, where I post tutorials, tips, and challenges. 
+
+I enjoy working on freelance projects that challenge me to learn new skills and solve real-world problems. I have built websites and web apps for clients in different domains, such as e-commerce, education, social media, and entertainment. You can check out some of my recent projects below, along with the links to the live demos and the source code.
+
+If you are looking for a reliable, creative, and enthusiastic full stack developer to work with, feel free to contact me. I would love to hear from you and discuss your ideas and requirements. Thank you for visiting my portfolio website!
 
 <img width="40%" hight="30" align="right" alt="Github" src="ETC/WhatsApp Image 2023-12-31 at 19.15.29_e564b4fd.jpg"/>
 
