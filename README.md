@@ -11,9 +11,9 @@ If you are looking for a reliable, creative, and enthusiastic full stack develop
 
 <Img src="https://readme-typing-svg.herokuapp.com?font=Rye&pause=500&color=0844080&width=255&height=30&lines=CHECK+-+MY+-+PROFILE">
 
-<img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997" alt=" Profile views"/>     
+<img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997"  alt=" Profile views"/>     
 
-<a href="https://infolite-in.github.io/com/"><Img width="10%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/>
+<a href="https://infolite-in.github.io/com/"><Img width="20%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/>
 
 <Details>
 <Summary> <code>📊  GITHUB STATUS </code> </summary>
