@@ -143,7 +143,8 @@ Achievements<a href="https://github.com/kaviyarasan-1997?tab=achievements">Achie
 
 <br>
 <a href="https://leetcode.com/kaviyarasan-1997/">
-    <img src="https://leetcard.jacoblin.cool/Kaviyarasan?theme=dark&font=Merriweather&ext=contest"></img>
+    <img src="https://leetcard.jacoblin.cool/Kaviyarasan?theme=unicorn&font=Merriweather&ext=contest"></img>
 <a>
+
 
 <!------------------------------------------>
