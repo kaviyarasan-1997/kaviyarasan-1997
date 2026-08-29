@@ -13,7 +13,7 @@ If you are looking for a reliable, creative, and enthusiastic full stack develop
 
 <img src="https://komarev.com/ghpvc/?username=kaviyarasan-1997"  alt=" Profile views"/>     
 
-<a href="https://kaviyarasan-1997.github.io/Portfolios/"><Img width="20%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/>
+<a href="https://kaviyarasan-1997.github.io/Portfolio/"><Img width="20%" height="20" align="centre" src="https://img.shields.io/badge/My-Portfolio-E31414?style=round&logo=I&logoColor=white"/>
 
 <Details>
 <Summary> <code>📊  GITHUB STATUS </code> </summary>
