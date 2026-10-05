@@ -69,12 +69,6 @@ What I Build
 
 <div align="center"><img height="175" src="https://github-readme-stats.vercel.app/api?username=kaviyarasan-1997&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true"/><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasan-1997&layout=compact&hide_border=true&theme=github_dark&langs_count=6"/></div>---
 
-🏆 Achievements
-
-<div align="center"><a href="https://github.com/kaviyarasan-1997?tab=achievements">
-<img src="https://github-profile-trophy.vercel.app/?username=kaviyarasan-1997&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</a></div>---
-
 🎥 InfoTalkies
 
 <div align="center"><img src="https://img.shields.io/badge/INFOTALKIES-Tech%20in%20Tamil-E31414?style=for-the-badge&logo=youtube&logoColor=white"/><br><br>
